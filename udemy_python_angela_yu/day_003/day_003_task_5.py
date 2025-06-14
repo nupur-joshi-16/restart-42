@@ -9,7 +9,6 @@ pepperoni_small = 2
 pepperoni_other = 3
 extra_cheese_price = 1
 
-
 if size == "S":
 	if pepperoni == "Y" and extra_cheese == "Y":
 		print(f"Your final bill is: {small_pizza + pepperoni_small + extra_cheese_price}.")
