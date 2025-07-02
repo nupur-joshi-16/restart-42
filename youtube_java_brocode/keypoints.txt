@@ -23,7 +23,16 @@ Section 2 - Variables
 - camelCase
 - String = S capital
 - String concatination
-- 
+
+Section 3 - User Input
+- import java.util.Scanner
+- scanner.nextLine(); or scanner()
+- scanner.close();
+- scanner.nextInt();
+- scanner.nextDouble()
+- if else statement
+- Common issue nextInt(). We can solve this using scanner.nextLine();
+- Calculate area of rectangle
 
   
   
