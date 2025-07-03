@@ -34,5 +34,7 @@ Section 3 - User Input
 - Common issue nextInt(). We can solve this using scanner.nextLine();
 - Calculate area of rectangle
 
+Section 4 - mad libs game
+
   
   
