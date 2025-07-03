@@ -1,0 +1,27 @@
+===================================
+Section 1 : Getting Started
+===================================
+
+001 - Welcome and Course Introduction
+      |-> Three main sections
+          |-> English Grammar
+          |-> English writing and punctuation
+          |-> English speaking and conversion
+002 - Course Navigation and course outline
+003 - Course review, course certificate
+004 - Your own personal English coaches (New feature)
+005 - PDFs, Q/A, Contacting Me, Reporting Issues
+006 - How to study this course, Study techniques, Video play speed
+      |-> Speech Shadowing
+      |-> Retell a story in English
+      |-> Learn the natural flow of English
+          |-> Linking
+          |-> Contractions
+          |-> Stress
+          |-> Rhythm
+007 - Helpful Resources
+      |-> Wordhippo - https://www.wordhippo.com/
+      |-> Pomodoro technique - https://www.marinaratimer.com/
+
+
+
