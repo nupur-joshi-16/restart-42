@@ -128,8 +128,220 @@ Section 2 : HTML Fundamentals
 019 - Challenge #2
       |-> Codepen - online editor
       |-> html entity referance css-tricks.com
+      |-> button element
+
+
+===================================
+Section 3 : CSS Fundamentals
+===================================
+
+020 - Section Intro
+021 - Introduction to CSS
+      |-> CSS - Cascading Style Sheets
+      |-> Visual style and presentation
+      |-> Selector -> Declaration/Style -> property -> value
+      |-> A css rule
+022 - Inline, Internal and External CSS
+      |-> style attribute - inline css
+      |-> style element - internal css
+      |-> External css - Need to link a file
+      |-> link element - <link href="style.css" rel="stylesheet"/>
+023 - Styling Text
+      |-> color property
+      |-> font-size
+      |-> font-family
+      |-> text-transform
+      |-> font-style
+      |-> line-height
+      |-> Inheritance mechanism
+      |-> text-align
+024 - Combining Selectors
+      |-> h1, h2, p and so on - comma separated
+      |-> descendant selectors - footer p - All the p element inside footer element - comma not needed
+      |-> nested descendant selectors - article header p
+025 - Class and ID Selectors
+      |-> id attribute - #author (# - selector)
+      |-> CSS comments
+      |-> comments shortcut in vs code (ctrl + /)
+      |-> class attributes
+      |-> id - only use single time in a page (not reusable)
+      |-> class - we can use multiple times in a page (reusable)
+      |-> font-weight
+      |-> ul {list-style : none;}
+026 - Working with colors
+      |-> The RGB Model - Red, Green, Blue
+      |-> Defining colors in CSS
+          |-> RBG / RGBA Notation (A - stands for Alpha - transparency)
+          |-> Hexadecimal Notation
+              |-> Shorthand #00ffff -> #0ff
+          |-> Shades of Grey
+      |-> border property
+      |-> background-color
+027 - Pseudo-classes
+      |-> element-name:first-child
+      |-> element-name:last-child
+      |-> element-nmae:nth-child(2)
+      |-> eleement-name:nth-child(odd)
+      |-> element-name:nth-child(even)
+028 - Styling Hyperlinks
+      |-> a:link
+      |-> a:visited
+      |-> a:hover
+      |-> a:active
+      |-> LVHA - Link Visited Hover Active
+      |-> href attribute is mandetory. otherwise above psedo classes not works.
+      |-> text-decoration property
+029 - Using Chrome DevTools
+      |-> Google Chrome Dev Tool
+      |-> Three ways to open Google chrome Tool
+          |-> right click > inspect elements
+          |-> view menu > developer > developer tools
+          |-> Short cut key - shift key + ctrl key + i
+      |-> user agent stylesheet - default styles in css
+      |-> chrome > styles > force element state (fake link state)
+      |-> Inspect element
+030 - CSS Theory #1: Conflicts Between Selectors
+      |-> Conflicting selectors and declarations
+          |-> If Multiple selectors selecting the same element
+          |-> then all rules and properties are applied.
+          |-> Rules - highest to lowest priority
+              |-> Note - 5 is highest and 0 is lowest priority 
+              |-> 5 - Declarations marked !important keyword
+              |-> 4 - Inline style (style attribute in HTML)
+              |-> 3 - ID (#) selector
+              |-> 2 - class (.) or pseudo-class(:) selector
+              |-> 1 - Element selector (p, div, li, etc.)
+              |-> 0 - Universal selector (*)
+          |-> Selector Specificity:(1,0,0) - vs code feature
+              |-> Here 1 means highest priority
+031 - CSS Theory #2: Inheritance and the universal selector
+      |-> Inheritance Mechanisom 
+          |-> Default style sheet - user agent style sheet
+          |-> Inheritance is a mechanisom by which some styles get there values inherited parent to child
+          |-> Inherited values are lowest priority
+          |-> How inheritance work?
+          |-> Not all properties get inherited.
+          |-> Its mostly ones related to text.
+          |-> font-family, font-size, font-weight, font-style, color, line-height, letter-spacing, text-align, text-transform, text-shadow, list-style etc.
+032 - Challenge #1
+      |-> cursor: pointer;
+033 - CSS Theory #3 : The CSS Box Model
+      |-> Box model?
+      |-> content > padding (empty space inside a element) > border > margin (empty space outside a element)
+      |-> Analogy for the css box model
+      |-> Element height and width calculation
+      |-> Final element width
+          |-> left border + left padding + width + right padding + right border
+      |-> Final element height
+          |-> top border + top padding + height + bottom padding + bottom border
+      |-> Margin is not a part of calculations (outside)
+034 - Using Margins and Paddings
+      |-> padding property
+      |-> margin property
+      |-> Global reset
+          |-> we can use universal selector (*) for global reset
+              |-> * {margin:0; padding:0}
+      |-> collapsing margins phenomena
+035 - Adding Dimensions
+      |-> width : 100%;
+          |-> (In percentage - entire width of parent)
+          |-> If parent is body then child width is end to end page
+036 - Centering our page
+      |-> div container element.
+          |-> div has no any special meaning like other symentic elements.
+      |-> centering page > body { margin: 0 auto;} shorthand value
+037 - Challenge #2
+038 - CSS Theory #4 : Types of Boxes
+      |-> Block- level element/boxes
+          |-> Element are formatted visually as blocks
+          |-> Elements occupy 100% of parent elements width, no matter the content
+          |-> Elements are stacked vertically by default, one after another
+          |-> The box-model applies as showd earlier
+          |-> Default elements with css display block
+              |-> body, main, header, footer, section, nav, aside, div, h1-h6, p, ul, ol, li etc.
+      |-> Inline elements
+          |-> Occupies only the space necessary for its content
+          |-> Causes no line-breaks after or before the element
+          |-> Box model applies in a different way: height and width do not apply
+          |-> Paddings and margins are applied only horizontally (left and right)
+          |-> Default elements with css display inline
+              |-> a, img, strong, em, button, etc.
+          |-> display: block;
+      |-> Inline-block boxes
+          |-> Looks like inline from the outside, behaves like block-level on the inside
+          |-> Occupies only content's space
+          |-> Cause no line-breaks
+          |-> Box-model applies as showed
+          |-> We can still use margin and paddings
+          |-> display : inline-block;
+039 - CSS Theory #5 : Absolute Positioning
+      |-> Normal flow vs Absolute Positioning
+          |-> Normal Flow
+              |-> Default positioning
+              |-> Element is 'in flow'
+              |-> Elements are simply laid out according to their order in the HTML code
+              |-> position : relative
+          |-> Absolute Flow 
+              |-> Element is removed from the normal flow: 'out of flow'
+              |-> No impact on surrounding elements, might overlap them
+              |-> We use top, bottom, left or right to offset the element from its relatively positioned container
+              |-> position : absolute
+          |-> Emoji popup vs code shortcut - windows key + .(dot)
+      |-> Understanding absolute positioning
+040 - Pseudo-elements
+      |-> Pseudo elements are essentially elements that dont exist in the html but we can still select style is css
+      |-> i.e. first letter of a para, first line of a para etc.
+      |-> element-name::first-letter
+      |-> element-name::first-line
+      |-> json sibling selector element1 + element2::first-line
+          |-> i.e. h1 + h2::first-line
+      |-> most important and mosed used pseudo elements
+          |-> element-name::after
+          |-> content property
+          |-> element-name::before
+041 - Developer Skill #1 : Googling and Reading Documentation
+      |-> It is okay not to know everything
+          |-> Google it. read documentation.
+          |-> stackoverflow, css-tricks, mdn documentation
+042 - Developer skills #2 : Debugging and asking question
+      |-> Bug is an error or mistakes. And debugging means fix that bug.
+      |-> common error in html - unclosed elements
+      |-> Html validator tool - https://validator.w3.org
+      |-> Diffchecker online tool - diffchecker.com
+      |-> misspelled property name in css
+      |-> not correctly link css file
+      |-> write code on codepen and share link to solve a problem
+042 - Challenge #3
+      |-> letter-spacing property
+
+
+===============================================================
+Section 4 : Layouts: Floats, Flexbox, and CSS Grid Fundamentals
+===============================================================
+
+
+
 
      
+
+
+
+      
+
+
+
+      
+       
+
+
+
+
+
+              
+ 
+
+ 
+
 
 
 
