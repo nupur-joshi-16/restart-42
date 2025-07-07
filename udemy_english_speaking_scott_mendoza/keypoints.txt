@@ -23,5 +23,97 @@ Section 1 : Getting Started
       |-> Wordhippo - https://www.wordhippo.com/
       |-> Pomodoro technique - https://www.marinaratimer.com/
 
+==============================================
+Section 2 : How English Works - A quick review
+==============================================
+
+008 - Section overview - English language
+009 - The parts of an English sentence - English Grammar
+      |-> The subject and predicate : A complete thought
+      |-> In English every sentence needs two parts
+          |-> The Subject and predicate
+      |-> The dog runs down the street
+          |-> The dog - Subject
+          |-> runs down the street - predicate
+      |-> without these two parts, the sentence is not complete thought.
+      |-> They must be in this order as well
+      |-> Subject first followed by the predicate
+      | The subject : The naming part
+          |-> The subject of a sentence is who or what the sentence is about.
+          |-> The subject is a noun.
+          |-> A noun is any person place or thing.
+          |-> 'The dog' is the subject.
+          |-> This is what the sentence is about.
+      |-> The predicate : The telling part
+          |-> The predicate of a sentence tells what the subject is doing.
+          |-> It will start with a verb and contain the object (a noun).
+          |-> runs down the street
+              |-> Verb + Object
+          |-> 'runs down the street' is the predicate.
+          |-> this tells us what the dog (subject) is doing.
+      |-> The basic sentence: Subject + Verb + Object
+          |-> Now we can build basic English sentence.
+          |-> Knowing only the rules about the subject and predicate.
+          |-> A basic English sentence is
+              |-> Subject + Predicate (Verb + object)
+              |-> The dog runs down the street.
+                  |-> The dog - Subject
+                  |-> runs down the street - Verb + Object
+      |-> Exercise 01
+          |-> Identifying the subject and predicate
+              |-> The cat jumps on the bed.
+              |-> The mouse eats cheese.
+              |-> The bird is in the sky.
+          |-> Answers
+              |-> The cat - Subject
+              |-> jumps on the bed - predicate
+              |-> The mouse - Subject
+              |-> eats cheese - predicate
+              |-> The bird - subject
+              |-> is is the sky - predicate
+      |-> Exercise 02
+          |-> Identifying the Subject and Predicate
+              |-> The man ate pizza
+                  |-> The man - subject
+                  |-> ate pizza - predicate
+              |-> Adam wen to school.
+                  |-> Adam - subject
+                  |-> went to school - predicate
+              |-> The bear slept in the cave
+                  |-> The bear - subject
+                  |-> slept in the cave - predicate
+       |-> Exercise 03
+           |-> Correct the sentence
+               |-> Sinking the boat is
+                   |-> The boat is sinking
+               |-> Eats mice a snake
+                   |-> A snake eats mice
+               |-> Is hot the sun
+                   |-> The sun is hot
+       |-> Adding to the basic structure
+           |-> The dog eats food
+           |-> The big dog eats food quickly.
+           |-> The big dog eats food quickly under the bed.
+           |-> This big dog eats food quickly under that bed.
+           |-> This big dog eats food and drinks water quickly under that bed.
+       |-> English: parts of speech
+           |-> Nouns
+           |-> Verbs
+           |-> Adjectives, Adverbs, and the other words
+           |-> Prepositions
+           |-> Conjunctions
+
+
+
+          
+
+
+           
+      
+
+ 
+
+
+
 
 
