@@ -5,3 +5,4 @@ DATE                STATUS          TIME
 ================    ============    ============
 Sat, 05 Jul 25      ❌ Missed 
 Sun, 06 Jul 25      ✅ Done         20 mins
+Mon, 07 Jul 25      ❌ Missed 
