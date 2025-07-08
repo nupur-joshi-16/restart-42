@@ -147,6 +147,57 @@ Section 2 : How English Works - A quick review
                   |-> Elizabeth - proper
                   |-> bench - singular common
                   |-> queen - common, singular
+011 - Verbs - English Grammar
+      |-> What is a verb?
+          |-> A verb is used to describe an action, state, or occurrence.
+          |-> The verb is the main part of the predicate.
+      |-> The dog runs down the street.
+          |-> 'runs' is the verb.
+          |-> This is the action the dog (subject) is doing.
+      |-> Verbs: Past, present and future
+          |-> Verbs tell when an action takes place.
+          |-> The past, present, or future.
+          |-> There are specific rules for each.
+          |-> Verb - To talk                General Rule
+              Past: Talked                  Add 'ed'
+              Present: Talks, Talk          Unchanged / add 's' or 'es'
+              Future: will talk             Add 'will' before the verb
+          |-> Not every verb follows these rules.
+      |-> Types of Verbs: Action
+          |-> Verbs have many uses.
+          |-> One common verb type is an action verb.
+          |-> An action verb shows what action the subject is doing.
+              |-> The dogs run down the street.
+                  |-> 'Runs' is the action verb.
+                  |-> The action the dog is doing is running.
+          |-> Typsof Verbs : helping verbs, Modal verbs, and more
+              |-> Helping Verbs
+                  |-> She is standing on the table.
+                      is + standing (helping verb + main verb)
+          |-> Modal Verbs
+              |-> He could fly in the morning
+                  |-> could + fly (modal verb + main verb)
+          |-> Examples
+              |-> The cat licks his paws.
+                  |-> licks (main verb)
+              |-> The cat is licking his paws.
+                  |-> is licking (modal verb (is) + main verb (licking))
+              |-> The cat could lick his paws.
+                  |-> could lick (modal verb + main verb)
+      |-> Exercises
+        |-> The boy ate the grapes
+            |-> ate - main verb
+        |-> The bear could be in the cave.
+            |-> could - modal verb
+            |-> be - main verb
+        |-> She is dancing on the table.
+            |-> is - modal verb
+            |-> dancing - main verb
+
+
+               
+
+
 
 
            
