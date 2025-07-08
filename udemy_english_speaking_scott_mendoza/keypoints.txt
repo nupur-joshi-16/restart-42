@@ -102,10 +102,51 @@ Section 2 : How English Works - A quick review
            |-> Adjectives, Adverbs, and the other words
            |-> Prepositions
            |-> Conjunctions
-
-
-
-          
+010 - Nouns - English Grammar
+      |-> What is a Noun?
+          |-> A noun is a person, place, or thing.
+          |-> The dog runs down the street.
+              |-> Both dog and street are nouns.
+      |-> Noun Categories
+          |-> Person
+              |-> fireman, bus driver, man
+          |-> place
+              |-> New York, America, space
+          |-> Thing
+              |-> pencil, apple, desk
+          |-> Animal
+              |-> dog, bird, cat
+          |-> Feeling
+              |-> Love, hate, anger
+      |-> Singular or Plural
+          |-> Singular        Plural        Rule
+              ----------------------------------------------------
+              Apple           Apples        Add 's'
+              ---------------------------------------------------- 
+              Fox             Foxes         Add 'es'
+              ----------------------------------------------------
+              Cherry          Cherries      Drop 'y' and add 'ies'
+              ----------------------------------------------------
+       |-> Common, Proper, or Pronoun
+           |-> Common        proper        pronouns
+               ----------------------------------------------------
+               man           George        He
+               ----------------------------------------------------
+               woman         Cleopatra     she
+               ----------------------------------------------------
+       |-> Exercise
+           |-> List all the nouns in the sentence,
+           |-> Try to figure out if it's common/proper, singulr/plural, or pronoun.
+              |-> 01. A mountain has trees, rivers, and lakes.
+                  |-> mountain - common, singular noun
+                  |-> has - pronoun - need to check its right or wrong
+                  |-> trees - plural, common
+                  |-> rivers - plural, common
+                  |-> lakes - plural, common
+              |-> 02. Queen Elizabeth sat on the bench.
+                  |-> Elizabeth - proper
+                  |-> bench - singular common
+                  |-> queen - common, singular
 
 
            
