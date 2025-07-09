@@ -193,6 +193,43 @@ Section 2 : How English Works - A quick review
         |-> She is dancing on the table.
             |-> is - modal verb
             |-> dancing - main verb
+012 - Objects: A closer Look - English Grammer
+      |-> Linking and transitive verbs
+      |-> We will focus on 3 different types of sentences.
+      |-> The sentence is diferent due to the verb
+      |-> The 3 types of verbs are:
+          |-> Transitive Verb (monotransitive and ditransitive)
+          |-> Intransitive verb
+          |-> linking verb
+      |-> Monotransitive sentences
+          |-> Subject + Verb + Object
+          |-> Jeff kicked the ball.
+      |-> Ditransitive sentences
+          |-> Subject + Verb + Indirect Object + Direct Object
+          |-> Jeff gave Dan the Cake.
+       
+      |-> Direct objects are the nouns or pronouns receiving the action, while the indirect objects are the nouns or pronouns affected by the action.
+      |-> Indirect objects are the recipients of the direct object.
+      |-> An indirect object answers the question of to whom, for whom, or for what.
+      |-> Subject + Verb + Indirect Object + direct object
+          |-> Jeff gave Dan the cake.
+          |-> Max pitched Alice the baseball.
+      |-> Intransitive verbs have no real object.
+      |-> Their action is not transferred from the subject to ann object
+      |-> Intransitive sentences
+          |-> Subject + Verb + (Prepositionl Phrase)
+              |-> She cried.
+              |-> She cried (at home).
+      |-> We can follow intransitive verbs with other words telling us how, where or when, but it isn't really the object
+          |-> He slept after dinner;
+          |-> Our car blew up down the street.
+      |-> Linking verbs link two parts of a sentence.
+      |-> They link the subject to a noun or adjective called the subject complement.
+          |-> Subject + Verb + Subject Complement
+              |-> Eric is a doctor.
+
+
+
 
 
                
