@@ -227,6 +227,62 @@ Section 2 : How English Works - A quick review
       |-> They link the subject to a noun or adjective called the subject complement.
           |-> Subject + Verb + Subject Complement
               |-> Eric is a doctor.
+013 - Adjectives, Adverbs, Daterminers, and More - English grammar
+      |-> The other words
+          |-> Nouns and verbs are the basic building blocks.
+              |-> Dog runs street
+              |-> The big dog runs down the street quickly.
+          |-> We use adverbs, adjectives, and determiners to give more information.
+      |-> Adjectives and adverbs : Adding detail to nouns and verbs
+          |-> Adjectives are words that describe a noun. This adds more detail to the noun.
+              |-> The dog runs down the street.
+              |-> The brown dog runs down the old street.
+          |-> Adverbs are words that describe a verb. This adds more detail to the verb,
+              |-> The dog runs down the street.
+              |-> The dog runs quickly down the street.
+          |-> Determiners : Adding even more detail
+              |-> Determiners are words that allow us to add even more detail to our sentences.
+              |-> We have many different types to demonstrate amount, time, location, and many other things.
+                  |-> Articles: used to show specificity
+                      |-> a, an, the
+                          |-> The dog runs down the street.
+                          |-> A dog runs down a street.
+                   |-> Demonstratives: used to show which objects are being talked about
+                       |-> This, that, these, those
+                           |-> This ball is red, that ball is blue.
+                   |-> Quantifiers : tell how much or how many
+                       |-> some, many, a lot of, few
+                           |-> Many people eat meat, but some do not.
+                   |-> Distributives : used to talk about objects in a group.
+                       |-> Each, every
+                           |-> Every student will take the test, Each student will have different questions.
+              |-> Examples
+                  |-> The blue sky had grey clouds.
+                      |-> Blue, grey (adjectives), The (article)
+                  |-> The child slowly finished his homework.
+                      |-> slowly (adverb), The (article)
+                  |-> An orange is a fruit.
+                      |-> An, a (article)
+                  |-> This cat is mine. Those cats are yours.
+                      |-> This, those (demonstrators)
+                  |-> Many people will take the test. Few will pass.
+                      |-> Many, few (quantifiers)
+                  |-> Every animal is a living thing.
+                      |-> every (Distributives), a (article)   
+               |-> Exercises
+                  |-> Each day of the week brings a fun experiemce.
+                      |-> each (distributive), the (article), fun (adjectives)
+                  |-> This bear has long legs. It can walk quickly.
+                      |-> This (demonstrative), long (adjectives), quickly (adverb)
+                  |-> Many people celebrate Christmas every year.
+                      |-> Many (quantifier), every (distributive)
+014 - Prepositions - English grammer
+
+                   
+
+
+ 
+
 
 
 
