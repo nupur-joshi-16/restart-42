@@ -311,13 +311,165 @@ Section 3 : CSS Fundamentals
       |-> misspelled property name in css
       |-> not correctly link css file
       |-> write code on codepen and share link to solve a problem
-042 - Challenge #3
+043 - Challenge #3
       |-> letter-spacing property
 
 
 ===============================================================
 Section 4 : Layouts: Floats, Flexbox, and CSS Grid Fundamentals
 ===============================================================
+
+044 - Section Intro
+045 - The 3 ways of building layouts
+      |-> Lyouts : Floats, Flexbox and CSS grid fundamentals
+      |-> What is 'Layout' mean?
+          |-> Layout is the way text, images and other content is placed and arranged on a webpage
+          |-> Layout gives the page a visual structure, into which we place our content
+          |-> Building a layout :
+              |-> arranging page elements into a visual structure, instead of simply having them placed one after another (normal flow)
+      |-> Page layout vs component layout
+      |-> The 3 ways of building layouts with css
+          |-> Float layouts
+              |-> The old way of building layouts of all sizes, using the float CSS property.
+              |-> Still used, but getting outdated fast.
+          |-> Flexbox
+              |-> Modern way of laying out elements in a 1-dimensional row without using floats.
+              |-> Perfect for component layouts.
+          |-> CSS Grid
+              |-> For laying out element in a fully-fledged 2-dimensional grid.
+              |-> Perfect for page layouts and complex components.
+046 - Using Floats
+      |-> float : left or float:right property
+      |-> Phenomena - collapsing elements
+      |-> Absolute positioning vs Floats
+          |-> Element is removed from the normal flow: 'out of flow'
+          |-> Text and inline elements will wrap around the floated element
+          |-> The container will not adjust its height to the element
+047 - Clearing floats
+      |-> clear property
+      |-> left, right or both
+      |-> clearfix hack
+      |-> content property
+048 - Building a simple float layout
+049 - box-sizing : border-box
+      |-> default behaviour content box
+050 - Challange #1
+051 - Introduction to flexbox
+      |-> display :flex; property
+      |-> flex container, flex items
+      |-> align-items property
+      |-> justify-content property
+052 - A Flexbox Overview
+      |-> What is flexbox?
+          |-> Flexbox is a set of related CSS properties for building 1-dimensional layouts
+          |-> The main idea behind flexbox is that empty space inside a container element can be automatically divided by its child elements
+          |-> Flexbox makes it easy to automatically align items to one another inside a parent container, both horizontally and vertically
+          |-> Flexbox solves common problems such as vertical centering and creating equal-height columns
+          |-> Flexbox is perfect for replacing floats, allowing us to write fewer and cleaner HTML and CSS code
+      |-> Flexbox Terminology
+          |-> Flex container > Flex items
+          |-> Main Axis and Cross Axis
+          |-> Flex container properties
+              |-> gap - To create space between items, without using margin
+              |-> justify-content - To align items along main axis (horizontally, by default)
+              |-> align-items - To align items along cross axis (vertically, by default)
+              |-> flex-direction - To define which is the main axis
+              |-> flex-wrap - To allow items to wrap into a new line if they are too large
+              |-> align-content - Only applies when there are multiple lines (flex-wrap : wrap)
+          |-> Flex items properties
+              |-> align-self - To overwrite align-items for individual flex items
+              |-> flex-grow - To allow an element to grow (0 means no, 1+ means yes)
+              |-> flex-shrink - To allow an element to shrink (0 means no, 1+ means yes)
+              |-> flex-basis - To define an item's width, instead of the width property
+              |-> flex - recommended shorthand for flex-grow, -shrink, -basis
+              |-> order - Controls order of items. -1 makes item first, 1 makes it last
+053 - Spacing and Aligning Flex Items
+      |-> align-self property
+      |-> order property (Default all 0)
+      |-> gap property
+054 - The flex property
+      |-> flex-grow property - default 0
+      |-> flex-shrink property - default 1
+      |-> flex-shrink property - default auto
+      |-> flex property - Shorthand property of above 3 properties
+          |-> flex : 0 0 200px;
+055 - Adding Flexbox to our project
+056 - Building a simple flexbox layout
+057 - Challenge #2
+058 - Introduction to CSS Grid
+      |-> display : none property 
+      |-> display : grid property
+      |-> grid-template-columns : 250px 150px;
+          |-> This code generates two columns
+      |-> grid-template-rows property
+      |-> grid-gap and gap property are same
+      |-> column-gap property
+      |-> row-gap property
+059 - A CSS grid overview
+      |-> CSS grid is a set of CSS properties for building 2-dimensional layouts
+      |-> The main idea behind CSS grid is that we divide a container element into rows and columns that can be filled with its child elements.
+      |-> In two-dimensional contexts, CSS grid allows us to write less nested HTMLand easier-to-read CSS
+      |-> CSS Grid is not meant to replace flexbox. Instead, they work perfectly together.
+      |-> Need 1 1D layout? Use Flexbox.
+      |-> Need a 2D layout? Use CSS Grid.
+      |-> Basic CSS Grid Terminology
+          |-> Grid Container (display:grid;) > Grid Items (Row and Column axis) > 
+          |-> grid lines 
+          |-> grid cell (might be filled by a grid item or not)
+          |-> gutters or gaps
+          |-> grid track/row
+      |-> Grid Container Properties
+          |-> grid-template-rows
+          |-> grid-template-columns
+              |-> Two establish the grid row and column tracks.
+              |-> One length unit for each track.
+              |-> Any unit can be used, new fr fills unused space
+          
+          |-> row-gap
+          |-> column-gap
+          |-> gap
+              |-> To create empty space between tracks.
+          |-> justify-items
+          |-> align-items
+              |-> To align items inside rows/columns (horizontally / vertically)
+          |-> justify-content
+          |-> align-content
+              |-> To align entire grid inside grid container.
+              |-> Only applies if container is larger than the grid
+      |-> Grid items properties
+          |-> grid-column
+          |-> grid-row
+              |-> To place a grid item into a specific cell, based on line numbers.
+              |-> span keyword can be used to span an item across more cells
+          |-> justify-self
+          |-> align-self
+              |-> To overwrite justify-items / align-items for single items
+060 - Sizing Grid Columns and Rows
+      |-> fr unit (fraction)
+      |-> repeat(4, 1fr) repeat function
+      |-> Imlicit rows and explicit rows
+061 - Placing and Spanning Grid items
+      |-> CSS grid dev tool in chrome - grid overlay
+      |-> grid-column property
+          |-> grid-column : 2 / 3;
+      |-> grid-row property
+          |-> grid-row : 1 / 2;
+062 - Aligning Grid Items and Tracks
+      |-> justify-cntent property
+      |-> align content property
+      Aligning items inside cells
+      |-> align=items property
+      |-> justify-items property
+      |-> align-self property
+      |-> justify-self property
+063 - Building a Simple CSS grid Layout
+064 - Challenge #3
+
+
+==========================================
+Section 5 : Web Design Rules and Framework
+==========================================
+
 
 
 

@@ -51,7 +51,6 @@ aside {
   border-bottom: 5px solid #1098ad;
   padding: 50px 40px;
   /* width: 500px; */
-  
 }
 
 /* SMALLER ELEMENTS */
@@ -138,8 +137,6 @@ li:last-child {
   margin-left: 0;
 }
 
-
-
 /* .first-li {
   font-weight: bold;
 } */
@@ -151,8 +148,6 @@ li:first-child {
 li:last-child {
   font-style: italic;
 }
-
-
 
 /* Misconception: this won't work! */
 article p:first-child {
@@ -219,8 +214,6 @@ h1::first-letter {
   font-style: normal;
   margin-right: 5px;
 }
-
-
 
 h2 {
   position: relative;
@@ -307,44 +300,45 @@ footer{
 
 .main-header {
   display: flex;
-  align-items : center;
+  align-items: center;
   justify-content: space-between;
 }
 
 .author-box {
   display: flex;
   align-items: center;
-  margin-bottom : 15px;
+  margin-bottom: 15px;
 }
 
 .author {
-  margin-bottom : 0;
-  margin-left : 15px;
+  margin-bottom: 0;
+  margin-left: 15px;
 }
 
 .related-post {
   display: flex;
-  align-items : center;
+  align-items: center;
   gap: 20px;
   margin-bottom: 30px;
 }
 
-
 .related-link:link {
-  font-size : 17px;
+  font-size: 17px;
   font-weight: bold;
   font-style: normal;
-  margin-bottom : 5px;
-  display : block;
+  margin-bottom: 5px;
+  display: block;
 }
 .related-author {
-  margin-bottom : 0;
-  font-size:14px;
+  margin-bottom: 0;
+  font-size: 14px;
   font-weight: normal;
-  font-style:italic;
+  font-style: italic;
 }
 
-.row {
+/* FLEXBOX LAYOUT */
+
+/* .row {
     display: flex;
     gap : 75px;
     margin-bottom: 60px;
@@ -356,4 +350,23 @@ article {
 }
 aside {
   flex: 0 0 300px;
+} */
+
+/* CSS GRID */
+
+.container {
+  display: grid;
+  grid-template-columns: 1fr 300px;
+}
+
+.main-header {
+}
+
+article {
+}
+
+aside {
+}
+
+footer {
 }
