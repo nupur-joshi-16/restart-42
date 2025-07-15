@@ -1,0 +1,49 @@
+=====================================
+Section 1: Welcome, Welcome, Welcome!
+=====================================
+
+001 - Course Structure and Projects
+      |-> In this course total 20 sections
+          |-> Fundamentals - Part 1
+          |-> Fundamentals - Part 2
+          |-> Developer Skills
+          |-> DOM Manipulation
+          |-> How JavaScript Works
+          |-> Modern Operators (ES6+)
+          |-> Functions
+          |-> Arrays
+          |-> Numbers, Dates, Timers
+          |-> Advanced DOM
+          |-> Object-Oriented JS
+          |-> Many Project
+          |-> Asynchronous JS
+          |-> Modern JS Applications
+          |-> Forkify Project
+          |-> Deployment and GIT
+
+002 - Read Before You Start!
+
+003 - Watch Before You Start!
+      |-> Quick consideration
+          |-> You need to code along with me.
+          |-> Try all the coding challenges.
+          |-> Take notes
+          |-> Please dont get overwhelmed
+          |-> Don't stress about efficient code, or fast code, or clean code
+          |-> Before moving on from a section, make sure that you understand exactly what was covered.
+          |-> If you have an error or a question, start by trying to solve it yourself!
+          |-> Most importantly, have fun!
+
+004 - Setting Up Our Code Editor
+      |-> We are going to use - VS Code
+          |-> Extensions
+              |-> Theme - Monokai Pro
+          |-> VS Code settings
+              |-> Auto Save - onFocusChange
+              |-> Multi Cursor Modifier - alt or ctrlCmd
+              |-> Word Wrap - On
+              |-> Tab Size - 2
+              |-> Format On Save - Tick
+       |-> Make sure Google Chrome is installed. 
+
+  
