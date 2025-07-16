@@ -276,7 +276,45 @@ Section 2 : How English Works - A quick review
                       |-> This (demonstrative), long (adjectives), quickly (adverb)
                   |-> Many people celebrate Christmas every year.
                       |-> Many (quantifier), every (distributive)
-014 - Prepositions - English grammer
+014 - Prepositions - English grammar
+      |-> What are prepositions?
+          |-> Prepositions are words that we use to show the relationship between other words.
+          |-> They give us information about time, location, or movement.
+              |-> The dog runs down the street. (down)
+              |-> The dog runs on the street. (on)
+      |-> Prepositional Phrase
+          |-> A prepositional phrase is a preposition with the object it belongs to.
+              |-> The dog runs down the street. (down the street)
+              |-> The dog runs on the street. (on the street)
+      |-> Types of Prepositions
+          |-> Time (when)
+              |-> I start school in September. (in)
+          |-> Place (where)
+              |-> She jumped on the table. (on)
+          |-> Movement (how)
+              |-> He walks to work. (to)
+          |-> In, to, and on are very common prepositions. However, there are many more.
+          
+          ---------------------------------------
+          Time        Movement        Location
+          ---------------------------------------
+          On          Into            Above
+          From        Toward          Over
+          During      Down            Under
+          By          Along           Between
+
+          |-> Examples
+              |-> I swim at night (at - Time (when))
+              |-> Put the shoes in the box. (in - Place(where))
+              |-> Lean the box towards the wall (towards - Movement(how))
+     
+          |-> Exercises
+              |-> My birthday is on Friday. (on - Time(when))
+              |-> Her house is on the first street. (on - location(where))
+              |-> He is driving to the store. (to - movement(how))
+      
+
+         
 
                    
 
