@@ -44,6 +44,100 @@ Section 1: Welcome, Welcome, Welcome!
               |-> Word Wrap - On
               |-> Tab Size - 2
               |-> Format On Save - Tick
-       |-> Make sure Google Chrome is installed. 
+       |-> Make sure Google Chrome is installed.
+
+
+===========================================
+Section 2: JavaScript Fundamentals - Part 1
+===========================================
+
+005 - Section Intro
+
+006 - Hello World!
+      |-> Chrome Developer Tools
+          |-> ctrl + shift + j
+          |-> Right click > Inspect
+          |-> Click the three-dot menu (⋮) > More Tools → Developer Tools > Console Tab
+      |-> alert("Hello World!");
+               |->  let js = 'amazing';
+      |-> if (js === 'amazing') alert('JavaScript is FUN!');
+      |-> js = 'boring';
+               |->  if (js === 'amazing') alert('JavaScript is FUN!'); // alert window not showing because of js is now boring.
+      |-> In console > up arrow - previous commands one by one
+      |-> We can do simle math operations
+          |-> 40 + 8 + 23 - 10; // 61
+      
+007 - A Brief Introduction to JavaScript
+      |-> What is JavaScript?
+          |-> JavaScript is a high-level, oject-oriented, multi-paradigm programming language.
+              |-> Programming language?
+                  |-> Instruct computer to do things.
+              |-> High-level programming language?
+                  |-> We don't have to worry about complex stuff like memory management.
+                      |-> What is memory management? - need to explore
+              |-> Oject-oriented?
+                  |-> Based on objects, for storing most kinds of data.
+              |-> Multi-paradigm?
+                  |-> We can use different styles of programming
+     |-> The role of JavaScript in Web Development
+         |-> Three technologies of web development - HTML, CSS & JavaScript
+             |-> HTML > Content > Noun
+             |-> CSS > Presentation of content > Adjectives
+             |-> JavaScript > programming Language > verbs
+                 |-> Building web applications, Dynamic and interactive effects, Maniupulate data etc.
+     |-> There is nothing you cant do with JavaScript (Well. Almost...)
+         |-> Fronend Applications - Dynamic effects and web applications in the browser
+             |-> JavaScript libraries/frameworks > React, Angular, Vue
+                 |-> 100% based on JavaScript. They might go away, but JavaScript won't
+             |-> Backend Applications - Web Applications on web servers
+                 |-> NodeJs
+             |-> Native Mobile Applications
+                 |-> Ionic, React Native
+             |-> Native Desktop Applications
+                 |-> Electron
+      |-> JavaScript releases...(More about this later)
+          |-> ES5 > ES6 / ES2015 > ES7 / ES2017 and so on...(Yearly new release)
+              |-> ES stands foe EcmaScript
+
+008 - Linking a JavaScript File
+      |-> script tag in html file (inside / inline script)
+          |-> <script>
+                                       let js = 'amazing';
+                                       if (js == 'amazing') alert('JavaScript is fun!');
+
+                                       console.log(40 + 8 + 23 - 10);
+                                   </script>
+      |-> External js (seperate js file)
+          |-> linking js file
+              |-> <script src="script.js"></script>
+                  |-> Usually write at the end of body tag
+                
+
+009 - Values and Variables
+      |-> What is variable?
+      |-> Declairing a variable
+          |-> let firstName = "Nupur";
+               |->  console.log(firstName);
+               |->  Variable Naming convention
+      |-> Syntax Error
+      |-> Reserved Javascript Keywords
+      |-> 'name' keyword we can use (not giving error but its illigal) but its reserved keyword.
+      |-> We should not start variable name with uppercase. Its not illigal but convention.
+      |-> constant value in uppercase
+          |-> let PI = 3.1415; //convention not rule
+      |-> Variable names should be discriptive
+
+              
+
+
+             
+
+                  
+          
+  
+      
+
+
+
 
   
