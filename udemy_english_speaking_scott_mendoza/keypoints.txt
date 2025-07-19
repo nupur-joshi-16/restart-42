@@ -312,6 +312,55 @@ Section 2 : How English Works - A quick review
               |-> My birthday is on Friday. (on - Time(when))
               |-> Her house is on the first street. (on - location(where))
               |-> He is driving to the store. (to - movement(how))
+
+015 - Conjunctions - English Grammar
+      |-> What are Conjunctions?
+          |-> A conjunction is a word used to connect clauses or sentences.
+              |-> I have a dog. I have a cat.
+                  |-> I have a dog and a cat. (and)
+      |-> Types of Conjunctions
+          |-> There are 3 main types of conjunctions.
+              |-> Coordinating : joins words, phrases that are similar.
+              |-> Subordinating : show a relationship between two situations
+              |-> Correlative : pairs of conjunctions used to join words, phrases that are similar.
+        
+              |-> Coordinating conjunctions join words and phrases that are similar.
+                  |-> I like dogs. I like cats.
+                      |-> I like dogs and cats. (and)
+               
+                  |-> The conjunctions can easily be remembered using the word FANBOYS
+                      |-> FANBOYS - for, and, nor, but, or, yet, so
+   
+               |-> Subordinating conjunctions show a relationship between two situations.
+                   |-> It was hot outside. The ice cream melted. (relation ship in two sentences.)
+                   |-> The ice cream melted since it was hot outside. (since)
+                   |-> Since it was hot outside, the ice cream melted. (since and comma)
+               
+               |-> Some common subordinating conjunctions are:
+                   |-> than, rather than, whether, as much as, whereas, that, whatever, which, whichever, after, as soon as, as long as, before, by the time, now that, once, since, till, untill, when, whenever, while, though, although, even though
+        
+             |-> Correlative
+                 |-> Correlative conjuctions are pairs of conjunctions used to join words, phrases that are similar.
+                     |-> I don't like pizza. I don't like pasta.
+                         |-> I like neither pizza nor pasta.
+                 |-> Common correlative
+                     |-> either...or, neither...nor, not only...but also
+                 |-> Examples
+                     |-> I want chicken. I want fish.
+                         |-> I want either chicken or fish.
+                     |-> I don't like blue. I like red.
+                         |-> I don't like blue, but I like red.
+                     |-> I ate carrots. I got sick.
+                         |-> I got sick because i ate carrots.
+
+                  |-> Exercises
+                      |-> They play soccer. They play baseball.
+                          |-> They play not only soccer but also play basetball.
+                      |-> It rained today. I got wet.
+                          |-> It rained today, so I got wet.
+                      |-> The dog jumps. The dog runs.
+                          |-> The dog jumps and runs.
+       
       
 
          
