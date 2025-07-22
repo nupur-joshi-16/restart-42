@@ -114,7 +114,12 @@ Section 2: JavaScript Fundamentals - Part 1
                 
 
 009 - Values and Variables
+      |-> Values are piece of data
+          |-> 'Nupur', 42, true, false are values
       |-> What is variable?
+          -> values store in variables and reuse them.
+             ->let firstName = "Nupur";
+           -> Variable like a box or container. 
       |-> Declairing a variable
           |-> let firstName = "Nupur";
                |->  console.log(firstName);
@@ -127,9 +132,129 @@ Section 2: JavaScript Fundamentals - Part 1
           |-> let PI = 3.1415; //convention not rule
       |-> Variable names should be discriptive
 
-              
+010 - Practice Assignments
+      |-> https://jonas.io/assignments/javascript-fundamentals-part-1.html
+
+011 - Data Types
+      |-> Object and Primitives
+          |-> Every Value - Object or Primitive 
+      |-> What is object?
+      |-> What is primitive?
+      |-> We will explore objects later. For now just focus on primitive datat types.
+      |-> The 7 primitive data types
+          |-> 1. Number - Floating point numbers --> Used for decimals and integers --> let age = 42;
+          |-> 2. String - Sequence of characters --> Used for text --> let firstName = 'Nupur';
+          |-> 3. Boolean - Logical type that can only be true or false --> Used for taking decisions --> let fullAge = true;
+          |-> 4. Undefined - Value taken by a variable that is not yet defined ("empty value") --> let children;
+          |-> 5. Null - Also means 'empty value'
+          |-> 6. Symbol (ES2015) - Value that is unique and cannot be changed (Not useful for now)
+          |-> 7. BigInt (ES2020) - Larger intergers than the Number type can hold.
+      |-> JavaScript has dynamic typing.
+          |-> We do not have to manually define the data type of the value stored in a variable. Instead, data types are determined automatically.
+              |-> For Example let x = 1 and later x = 'Nupur'
+      |-> Comment
+          |-> What is comments in JavaScript?
+              |-> Single line comment -> //
+              |-> Multi line comment
+              |-> Shortcut key in vs code
+      |-> typeof operator
+          |-> What is typeof operator?
+          |-> console.log(typeof true);
+          |-> console.log(typeof javascriptIsFun);
+          |-> console.log(typeof "Nupur");
+          |-> console.log(typeof 42);
+      |-> reassign variable
+          |-> What is reaasign variable and what is use that?
+              |-> let javascriptIsFun = true;
+              |-> javascriptIsFun = "Yes";
+                  |-> Do not need to write let keyword again
+                  |-> Dynamic typing
+              |-> undefined
+                  |-> What is mean?
+                      |-> let year;
+                      |-> console.log(typeof year);
+                                                       |->  year = 1991;
+                      |-> console.log(typeof year);
+                         |-> error exist in typeof operator in javascript
+          |-> console.log(typeof null);
 
 
+012 - let, const and var
+      |-> cont introduce in es6
+      |-> var keyword is old way to declared variable
+      |-> let?
+      |-> mutable, immutable?
+      |-> emty variable?
+      |-> const - not reassign - cannot be change
+          |-> const birthYear = 2000;
+          |-> birthYear = 2005;
+              |-> TypeError : Assignment to const variable.
+          |-> const job; 
+              |-> Its not legal.
+      |-> Always recommend const by default.
+      |-> Third way declaring variabels in js in var keyword
+      |-> var - complitly avoided - old way
+      |-> What is var? Why not use it?
+      |-> var vs let vs const
+      |-> Tip: learning is really not leanear.
+      |-> let is block scoped. var is function scoped.
+      |-> basically, you should never use var
+      |-> without declaring var, let or const before variable name javascript execute that variable but its terrible idea.
+          |-> projectName = "Restart-42";
+              |-> but its terrible idea. It will executive bugs.
+
+013 - Basic Operators
+      |-> What are operators in js?
+      |-> Type of opertors in js?
+      |-> Mathematical / arithmetic operators
+          |-> +, -, *, /, ** (exponiation operator)
+              |-> const currentYear = 2037;
+              |-> const ageJonas = currentYear - 1991;
+              |-> const ageSarah = currentYear - 2018;
+              |-> console.log(ageJonas, ageSarah); // we can add multiple values using comma)
+                                   |-> 2 ** 3 means 2 t0 the power of 3 = 2 * 2 * 2;
+               
+      |-> Plus operators also use for join strings or cocatinate strings
+          |-> const firstName = "Nupur";
+          |-> const lastName = "J.";
+          |-> console.log(firstName + " " + lastName); 
+               |-> 'typeof' also a operator
+               |->  assignment operators (=, += (x = x + 10), x*=4; x++, x--)
+          |-> let x = 10 + 5;
+          |-> x += 10; // x = x + 10 = 25
+          |-> x *= 4; // 100
+          |-> x++; // x = x + 1
+          |-> console.log(x);
+          |-> x--;
+               |->  Comparison operators
+                         |-> boolean values
+                         |-> console.log(5>3); //true
+          |-> greater than(>)
+          |-> less than (<)
+          |-> greather than equal to (=>)
+          |-> less than equal to (=<)
+          |-> equal to (==); 
+          |-> how know java should Maths first or camparison first?
+              |-> operation precedance next lecture
+
+014 - Operator Precedence
+      |-> Javascrips has a well define operator precedence
+      |-> mdn operator precendance table documentation
+      |-> BOMDAS or PEMDAS and LR - Left to right and RL - Rigth to Left
+      |-> Tip - we can define multiple variables in same line
+          |-> let x, y, z;
+      |-> x = y = 25 - 10 - 5;
+          |-> x = y = 10 // because of arithmetic operators higher precedence here
+              |-> x = y = 10 // Assignment - right-to-left . y = 10
+                  |-> x = 10 // because of y holds 10
+                      |-> x=10 y=10 final result 10 10
+       |-> Highest precedance is grouping using parenthesis ()
+
+015 - A Note About Challenges
+
+
+
+      
              
 
                   
