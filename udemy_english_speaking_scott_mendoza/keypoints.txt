@@ -361,11 +361,126 @@ Section 2 : How English Works - A quick review
                       |-> The dog jumps. The dog runs.
                           |-> The dog jumps and runs.
        
-      
 
-         
-
+==============================================
+Section 3 : English Grammar Section
+==============================================
                    
+16 - Sections and topics
+     |-> Verb Tenses
+         |-> Simple Present Verb Tense
+         |-> Verb Conjugation (1st/2nd/3rd person)
+         |-> Subject-Verb Agreement
+         |-> Simple Past Tense
+         |-> Future Simple Tense
+         |-> Present Continuous Tense
+         |-> Past Continuous Tense
+         |-> Future Continuous
+         |-> Present participle
+         |-> Gerund
+         |-> Past participle
+         |-> Present Perfect Tense
+         |-> Past Perfect Tense
+         |-> Future Perfect tense
+         |-> Present Perfect Continuous Tense
+         |-> Past Perfect Continuous Tense
+         |-> Future Perfect Continuous Tense
+     |-> Auxiliary/Modal Verbs
+         |-> To Be
+         |-> To Do, TO Have
+         |-> Can, Could
+         |-> Will, Would
+         |-> Shall, Should
+         |-> Must, May, Might
+     |-> Phrasal Verbs
+         |-> Carry On, Put Off
+         |-> Turn Down, Break Up
+         |-> Give up, Turn Out
+     |-> Nouns / Pronouns
+         |-> Common Nouns
+         |-> Proper Nouns
+         |-> Subject Pronouns
+         |-> Object Pronouns
+         |-> Possessive Nouns
+         |-> Possessive Pronouns
+         |-> Concrete Nouns
+         |-> Abstract Nouns
+         |-> Material Nouns and Compound Nouns
+         |-> Countable vs. Uncountable Nouns
+         |-> Collective Nouns
+     |-> Articles / Demonstratives
+         |-> Articles (a, an, the)
+         |-> This, That, These Those
+     |-> Adjectives
+         |-> Adjectives and Adverbs
+         |-> Descriptives Adjectives
+         |-> Proper Adjectives
+         |-> Possessive Adjectives
+         |-> Comparative Adjectives
+         |-> Superlative Adjectives
+         |-> Limiting Adjectives
+         |-> Pronomonal Adjectives
+     |-> Adverbs
+         |-> Forming Adverbs
+         |-> Adverbs of Manner
+         |-> Adverbs of Frequencey
+         |-> Adverbs of place
+         |-> Adverbs of Time
+         |-> Adverbs of Degree
+         |-> Comparative and Superlative Adverbs
+         |-> Order of Adverbs
+     |-> Distributives / Quantifiers / Pre-determiners
+         |-> All, half
+         |-> Each, Every
+         |-> Both, Either, Neither
+         |-> A Few, A Little
+         |-> A Lot, Most
+         |-> Much, Many
+         |-> Some Any, Enough
+         |-> Such, What, Rather, Quite
+     |-> Preposition
+         |-> Prepositions
+         |-> Prepositions of Time
+         |-> Prepositions of Place
+         |-> Prepositions of Manner
+         |-> Prepositions of Direction and Motion
+         |-> Preposition of Cause, Purpose, Reason
+         |-> Prepositional Phrases
+     |-> Clauses
+         |-> Clauses
+         |-> Independent Clause
+         |-> Dependent (Subordinate) Clause
+         |-> Noun Clause
+         |-> Adjective (Relative) Clause
+         |-> Adverb Clause
+     |-> Conjunctions
+         |-> Conjunctions
+         |-> Coordinating Conjunctions
+         |-> Subordinate Conjunctions
+         |-> Compound Conjunctions
+         |-> Correlative Conjunctions
+         |-> Pseudo Conjunctions
+     |-> Conditionals
+         |-> Conditionals
+         |-> Conditionals : Type 0
+         |-> Conditionals : Type 1
+         |-> Conditionals : Type 2
+         |-> Conditionals : Type 3
+         |-> Conditionals : Type Mixed
+     |-> Stand Alone Topics
+         |-> Passive vs Active Voice
+         |-> Reported Speech
+     |-> Common Mistakes
+         |-> Fewer vs Less  |  Then vs Than
+         |-> There, Their, They're  |  To vs Too vs Two
+         |-> Your vs You're  |  Its vs It'
+
+     |-> Lesson Breakdown:
+         |-> specially Designed Lessons
+             |-> Video 1 - Learn it
+             |-> Video 2 - Review it
+             |-> Video 3 - Use it
+             |-> Video 4 - Practice it
 
 
  
