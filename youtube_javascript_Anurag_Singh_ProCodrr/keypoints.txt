@@ -1,0 +1,87 @@
+16th August 2025
+===================================
+Video 6 : History of JavaScript
+===================================
+
+Netscape
+A web browser which used to dominate the world in 90s with the market share of around 90%.
+This is where the story of JavaScript starts from.
+
+Static Website
+Website used to be static then. And browsers could not do even a single calculations at that time.
+In order to do even a simple math browsers had to servers.
+
+Comparison of these two website
+calculatehours.com
+calculator.net
+
+
+chrome > inspect > dev tools > Network > Offline
+
+Making the language of web
+So the founder of Netscape decided to develope a programming language for his Netscape.
+
+Founder of Netscape : Marc Andreessen
+
+
+Which was the first browser for public use and who developed it?
+The first web browser for public use was Mosaic, developed in 1993 by Marc Andreessen and Eric Bina at the National Center for Supercomputing Applications (NCSA), University of Illinois.
+👉 While WorldWideWeb (later renamed Nexus) by Tim Berners-Lee was the very first browser (1990), it was limited and not widely available to the general public. Mosaic is considered the first popular/public browser that brought the web to mainstream users.
+
+
+Making the language of web
+In september 1995 Andreessen hired one guy called Brendan Eich to develope that language.
+
+Creator of Javascript - Brendan Eich
+
+Development of JavaScript
+Brendan starts the development and the rest is history. He developed the whole new language in just 10 freaking days.
+And that language was called "Mocha". Then is was changed to 'LiveScript' and then finally 'JavaScript'.
+
+This is how the language of internet is born - JavaScript.
+
+Founder of StackOverflow - Jeff Atwood
+
+
+Microsoft --> internet explorer --> JScript
+
+
+ECMA International
+European Computer Manufacturers Association
+
+Every year new release or feature.
+i.e.
+ES6 ES2015 June 2015
+ES7 ES2016 June 2016
+and so on...
+
+Google Chrome - 2008 - JavaScript 'V8 engine'
+Firefox - SpiderMonkey
+
+Ryan Dahl - Creator of NodeJS
+
+Is JavaScript Interprited or compiled language?
+ChatGPT said:
+
+JavaScript is primarily an interpreted language, but in modern engines it’s more accurate to say it is interpreted + Just-In-Time (JIT) compiled.
+
+Interpreted: Original JavaScript engines (like in early browsers) directly read and executed the code line by line.
+
+JIT Compiled: Modern engines (like Google’s V8, SpiderMonkey, Chakra) first parse and interpret the code, then compile hot code paths into optimized machine code at runtime for better performance.
+
+👉 So, the precise answer: JavaScript is an interpreted language with JIT compilation
+
+
+Wht is interpreted?
+What is compiled?
+
+chrome engine - jit compiler
+
+
+
+
+
+
+
+
+
