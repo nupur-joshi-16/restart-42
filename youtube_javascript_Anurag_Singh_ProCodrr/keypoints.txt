@@ -77,6 +77,49 @@ What is compiled?
 
 chrome engine - jit compiler
 
+===================================
+Video 7 : 5 questions
+===================================
+
+====================================
+Video 8 : Introduction to JavaScript
+====================================
+
+What is binary?
+
+extrnal Javascript file link in html file 
+<script src="script.js"></script>
+<script src="name-2.js"></script>
+
+inline js
+internal js
+
+script tag inside head tag vs end of the body tag. plus and minus points.
+
+console.log("Hello world!");
+
+Console --> REPL
+R = Read
+E = Eval or Evaluate
+P = Print
+L = Loop
+
+clear console --> Ctrl + L
+
+VS code extension --> JavaScript (ES6) code snippets
+
+comments in javascript
+BODMASLR and PEMDASLR
+
+
+
+
+
+
+
+
+
+
 
 
 
