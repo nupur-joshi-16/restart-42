@@ -111,6 +111,94 @@ VS code extension --> JavaScript (ES6) code snippets
 comments in javascript
 BODMASLR and PEMDASLR
 
+====================================
+JavaScript Fundamentals
+====================================
+
+09 : Datatypes in JavaScript
+
+What is datatype? explain.
+
+There are two types of data types in JavaScript
+1. Primitive?
+2. Non Primitive?
+
+We can classify primitive data types in 7 categories.
+1. String- What is this? single quote, double quote, backtick
+2. Number- What is this?
+3. Boolean- What is this?
+4. undefined- What is this?
+5. Null- What is this?
+6. bigint- What is this?
+7. symbol- What is this?
+
+typeof operator?
+
+empty string
+
+\n - new line
+
+SyntaxError
+
+Template literal
+
+Mltiline string?
+
++ '100' --> // Convert in Number
+
+What is token? --> Invalid or unexpected token --> Token term explain
+
+NaN - Not a (valid) Number -Please explain
+
+NaN --> typeof --> Number
+NaN itself a number. But not a valid number or invalid number.
+
+parseInt() explain.
+
+100 --> 100 + '' --> '100'  --> typeof string //convert number to string
+
+boolean --> true or false
+
++false --> //0
++true ---> //1
+
+undefined explain
+
+null explin
+
+typeof null --> object --> Its a bug in Javascript and its never fix.
+
+What is bigint?
+
+symbol we will explore later.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
