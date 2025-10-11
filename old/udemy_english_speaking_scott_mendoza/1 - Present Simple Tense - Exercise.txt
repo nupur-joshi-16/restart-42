@@ -1,0 +1,112 @@
+1. go
+I go to school.
+I don't go to school.
+Why do I go to school?
+We go to school.
+We don't go to school.
+Why do we go to school?
+You go to school.
+You don't go to school.
+Why do you go to school?
+He goes to school.
+He doesn't go to school.
+Why does he go to school?
+She goes to school.
+She doesn't go to school.
+Why does she go to school?
+They go to school.
+They don't go to school.
+Why do they go to school?
+
+2. eat
+I eat pizza.
+I don't eat pizza.
+Where do I eat Pizza?
+We eat pizza.
+We don't eat pizza.
+Why do we eat pizza?
+You eat pizza.
+You don't eat pizza.
+Why do you eat pizza?
+He eats pizza.
+He doesn't eat pizza.
+Why does he eat pizza?
+She eats pizza.
+She doesn't eat pizza.
+Why does she eat pizza?
+It eats pizza.
+It doesn't eat pizza.
+Why does it eat pizza?
+They eat pizza.
+They don't eat pizza.
+Why do they eat pizza?
+
+3. take
+I take decisions.
+I don't take decisions.
+Why do I take decisions?
+We take decisions.
+We don't take decisions.
+Why do we take decisions?
+You take decisions.
+You don't take decisions.
+Why do you take decisions?
+He takes decisions.
+He doesn't take decisions.
+Why does he take decisions?
+She takes decisions.
+She doesn't take decisions.
+Why does she take decisions?
+It takes decisions.
+It doesn't take decisions.
+Why does it take decisions?
+They take decisions.
+They don't take decisions.
+Why do they take decisions? 
+
+4. speak
+I speak slowly.
+I don't speak slowly.
+Why do I speak slowly?
+We speak slowly.
+We don't speak slowly.
+Why do we speak slowly?
+You speak slowly.
+You don't speak slowly.
+Why do you speak slowly?
+He speaks slowly.
+He doesn't speak slowly.
+Why does he speak slowly?
+She speaks slowly.
+She doesn't speak slowly.
+Why does she speak slowly?
+It speaks slowly.
+It doesn't speak slowly.
+Why does it speak slowly?
+They speak slowly.
+They don't speak slowly.
+Why do they speak slowly?
+
+5. give
+I give money to all employees.
+I don't give money to all employees.
+Why do I give money to all employees?
+We give money to all employees.
+We don't give money to all employees.
+Why do we give money to all employees?
+You give money to all employees.
+You don't give money to all employees.
+Why do you give money to all employees?
+He gives money to all employees.
+He doesn't give money to all employees.
+Why does he give money to all employees?
+She gives money to all employees.
+She doesn't give money to all employees.
+Why does she give money to all employees?
+It gives money to all employees.
+It doesn't give money to all employees.
+Why does it give money to all employees?
+They give money to all employees.
+They don't give money to all employees.
+Why do they give money to all employees?
+

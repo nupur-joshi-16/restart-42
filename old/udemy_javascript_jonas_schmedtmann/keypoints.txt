@@ -1,0 +1,301 @@
+=====================================
+Section 1: Welcome, Welcome, Welcome!
+=====================================
+
+001 - Course Structure and Projects
+      |-> In this course total 20 sections
+          |-> Fundamentals - Part 1
+          |-> Fundamentals - Part 2
+          |-> Developer Skills
+          |-> DOM Manipulation
+          |-> How JavaScript Works
+          |-> Modern Operators (ES6+)
+          |-> Functions
+          |-> Arrays
+          |-> Numbers, Dates, Timers
+          |-> Advanced DOM
+          |-> Object-Oriented JS
+          |-> Many Project
+          |-> Asynchronous JS
+          |-> Modern JS Applications
+          |-> Forkify Project
+          |-> Deployment and GIT
+
+002 - Read Before You Start!
+
+003 - Watch Before You Start!
+      |-> Quick consideration
+          |-> You need to code along with me.
+          |-> Try all the coding challenges.
+          |-> Take notes
+          |-> Please dont get overwhelmed
+          |-> Don't stress about efficient code, or fast code, or clean code
+          |-> Before moving on from a section, make sure that you understand exactly what was covered.
+          |-> If you have an error or a question, start by trying to solve it yourself!
+          |-> Most importantly, have fun!
+
+004 - Setting Up Our Code Editor
+      |-> We are going to use - VS Code
+          |-> Extensions
+              |-> Theme - Monokai Pro
+          |-> VS Code settings
+              |-> Auto Save - onFocusChange
+              |-> Multi Cursor Modifier - alt or ctrlCmd
+              |-> Word Wrap - On
+              |-> Tab Size - 2
+              |-> Format On Save - Tick
+       |-> Make sure Google Chrome is installed.
+
+
+===========================================
+Section 2: JavaScript Fundamentals - Part 1
+===========================================
+
+005 - Section Intro
+
+006 - Hello World!
+      |-> Chrome Developer Tools
+          |-> ctrl + shift + j
+          |-> Right click > Inspect
+          |-> Click the three-dot menu (⋮) > More Tools → Developer Tools > Console Tab
+      |-> alert("Hello World!");
+               |->  let js = 'amazing';
+      |-> if (js === 'amazing') alert('JavaScript is FUN!');
+      |-> js = 'boring';
+               |->  if (js === 'amazing') alert('JavaScript is FUN!'); // alert window not showing because of js is now boring.
+      |-> In console > up arrow - previous commands one by one
+      |-> We can do simle math operations
+          |-> 40 + 8 + 23 - 10; // 61
+      
+007 - A Brief Introduction to JavaScript
+      |-> What is JavaScript?
+          |-> JavaScript is a high-level, oject-oriented, multi-paradigm programming language.
+              |-> Programming language?
+                  |-> Instruct computer to do things.
+              |-> High-level programming language?
+                  |-> We don't have to worry about complex stuff like memory management.
+                      |-> What is memory management? - need to explore
+              |-> Oject-oriented?
+                  |-> Based on objects, for storing most kinds of data.
+              |-> Multi-paradigm?
+                  |-> We can use different styles of programming
+     |-> The role of JavaScript in Web Development
+         |-> Three technologies of web development - HTML, CSS & JavaScript
+             |-> HTML > Content > Noun
+             |-> CSS > Presentation of content > Adjectives
+             |-> JavaScript > programming Language > verbs
+                 |-> Building web applications, Dynamic and interactive effects, Maniupulate data etc.
+     |-> There is nothing you cant do with JavaScript (Well. Almost...)
+         |-> Fronend Applications - Dynamic effects and web applications in the browser
+             |-> JavaScript libraries/frameworks > React, Angular, Vue
+                 |-> 100% based on JavaScript. They might go away, but JavaScript won't
+             |-> Backend Applications - Web Applications on web servers
+                 |-> NodeJs
+             |-> Native Mobile Applications
+                 |-> Ionic, React Native
+             |-> Native Desktop Applications
+                 |-> Electron
+      |-> JavaScript releases...(More about this later)
+          |-> ES5 > ES6 / ES2015 > ES7 / ES2017 and so on...(Yearly new release)
+              |-> ES stands foe EcmaScript
+
+008 - Linking a JavaScript File
+      |-> script tag in html file (inside / inline script)
+          |-> <script>
+                                       let js = 'amazing';
+                                       if (js == 'amazing') alert('JavaScript is fun!');
+
+                                       console.log(40 + 8 + 23 - 10);
+                                   </script>
+      |-> External js (seperate js file)
+          |-> linking js file
+              |-> <script src="script.js"></script>
+                  |-> Usually write at the end of body tag
+                
+
+009 - Values and Variables
+      |-> Values are piece of data
+          |-> 'Nupur', 42, true, false are values
+      |-> What is variable?
+          -> values store in variables and reuse them.
+             ->let firstName = "Nupur";
+           -> Variable like a box or container. 
+      |-> Declairing a variable
+          |-> let firstName = "Nupur";
+               |->  console.log(firstName);
+               |->  Variable Naming convention
+      |-> Syntax Error
+      |-> Reserved Javascript Keywords
+      |-> 'name' keyword we can use (not giving error but its illigal) but its reserved keyword.
+      |-> We should not start variable name with uppercase. Its not illigal but convention.
+      |-> constant value in uppercase
+          |-> let PI = 3.1415; //convention not rule
+      |-> Variable names should be discriptive
+
+010 - Practice Assignments
+      |-> https://jonas.io/assignments/javascript-fundamentals-part-1.html
+
+011 - Data Types
+      |-> Object and Primitives
+          |-> Every Value - Object or Primitive 
+      |-> What is object?
+      |-> What is primitive?
+      |-> We will explore objects later. For now just focus on primitive datat types.
+      |-> The 7 primitive data types
+          |-> 1. Number - Floating point numbers --> Used for decimals and integers --> let age = 42;
+          |-> 2. String - Sequence of characters --> Used for text --> let firstName = 'Nupur';
+          |-> 3. Boolean - Logical type that can only be true or false --> Used for taking decisions --> let fullAge = true;
+          |-> 4. Undefined - Value taken by a variable that is not yet defined ("empty value") --> let children;
+          |-> 5. Null - Also means 'empty value'
+          |-> 6. Symbol (ES2015) - Value that is unique and cannot be changed (Not useful for now)
+          |-> 7. BigInt (ES2020) - Larger intergers than the Number type can hold.
+      |-> JavaScript has dynamic typing.
+          |-> We do not have to manually define the data type of the value stored in a variable. Instead, data types are determined automatically.
+              |-> For Example let x = 1 and later x = 'Nupur'
+      |-> Comment
+          |-> What is comments in JavaScript?
+              |-> Single line comment -> //
+              |-> Multi line comment
+              |-> Shortcut key in vs code
+      |-> typeof operator
+          |-> What is typeof operator?
+          |-> console.log(typeof true);
+          |-> console.log(typeof javascriptIsFun);
+          |-> console.log(typeof "Nupur");
+          |-> console.log(typeof 42);
+      |-> reassign variable
+          |-> What is reaasign variable and what is use that?
+              |-> let javascriptIsFun = true;
+              |-> javascriptIsFun = "Yes";
+                  |-> Do not need to write let keyword again
+                  |-> Dynamic typing
+              |-> undefined
+                  |-> What is mean?
+                      |-> let year;
+                      |-> console.log(typeof year);
+                                                       |->  year = 1991;
+                      |-> console.log(typeof year);
+                         |-> error exist in typeof operator in javascript
+          |-> console.log(typeof null);
+
+
+012 - let, const and var
+      |-> cont introduce in es6
+      |-> var keyword is old way to declared variable
+      |-> let?
+      |-> mutable, immutable?
+      |-> emty variable?
+      |-> const - not reassign - cannot be change
+          |-> const birthYear = 2000;
+          |-> birthYear = 2005;
+              |-> TypeError : Assignment to const variable.
+          |-> const job; 
+              |-> Its not legal.
+      |-> Always recommend const by default.
+      |-> Third way declaring variabels in js in var keyword
+      |-> var - complitly avoided - old way
+      |-> What is var? Why not use it?
+      |-> var vs let vs const
+      |-> Tip: learning is really not leanear.
+      |-> let is block scoped. var is function scoped.
+      |-> basically, you should never use var
+      |-> without declaring var, let or const before variable name javascript execute that variable but its terrible idea.
+          |-> projectName = "Restart-42";
+              |-> but its terrible idea. It will executive bugs.
+
+013 - Basic Operators
+      |-> What are operators in js?
+      |-> Type of opertors in js?
+      |-> Mathematical / arithmetic operators
+          |-> +, -, *, /, ** (exponiation operator)
+              |-> const currentYear = 2037;
+              |-> const ageJonas = currentYear - 1991;
+              |-> const ageSarah = currentYear - 2018;
+              |-> console.log(ageJonas, ageSarah); // we can add multiple values using comma)
+                                   |-> 2 ** 3 means 2 t0 the power of 3 = 2 * 2 * 2;
+               
+      |-> Plus operators also use for join strings or cocatinate strings
+          |-> const firstName = "Nupur";
+          |-> const lastName = "J.";
+          |-> console.log(firstName + " " + lastName); 
+               |-> 'typeof' also a operator
+               |->  assignment operators (=, += (x = x + 10), x*=4; x++, x--)
+          |-> let x = 10 + 5;
+          |-> x += 10; // x = x + 10 = 25
+          |-> x *= 4; // 100
+          |-> x++; // x = x + 1
+          |-> console.log(x);
+          |-> x--;
+               |->  Comparison operators
+                         |-> boolean values
+                         |-> console.log(5>3); //true
+          |-> greater than(>)
+          |-> less than (<)
+          |-> greather than equal to (=>)
+          |-> less than equal to (=<)
+          |-> equal to (==); 
+          |-> how know java should Maths first or camparison first?
+              |-> operation precedance next lecture
+
+014 - Operator Precedence
+      |-> Javascrips has a well define operator precedence
+      |-> mdn operator precendance table documentation
+      |-> BOMDAS or PEMDAS and LR - Left to right and RL - Rigth to Left
+      |-> Tip - we can define multiple variables in same line
+          |-> let x, y, z;
+      |-> x = y = 25 - 10 - 5;
+          |-> x = y = 10 // because of arithmetic operators higher precedence here
+              |-> x = y = 10 // Assignment - right-to-left . y = 10
+                  |-> x = 10 // because of y holds 10
+                      |-> x=10 y=10 final result 10 10
+       |-> Highest precedance is grouping using parenthesis ()
+
+015 - A Note About Challenges
+
+// Coding Exercise 1: Challenge #1
+
+016 - Challenge #1: Video Solution
+
+017 - Strings and Template Literals
+      |-> Strings are very important part in programming
+      |-> What is Template literals?
+          const firstName = "Nupur";
+          const job = "teacher";
+          const birthYear = 1991;
+          const year = 2037;
+          const nupur = "I'm " + firstName + ", a " + (year - birthYear) + " years old " + job + ".";
+
+          console.log(nupur);
+
+          const nupurNew = `I'm ${firstName}, a ${year - birthYear} years old ${job}.`;
+          console.log(nupurNew);
+                |-> \n - new line char
+                |-> Multiline string
+
+018 - Taking Decisions: if/else Statements
+      |-> control structure. more control. not exucated lenear. now control blocks of code
+
+Coding Exercise 2: Challenge #2
+
+019 - Challange #2 : Video solution
+
+020 - 
+
+
+
+
+
+
+
+      
+             
+
+                  
+          
+  
+      
+
+
+
+
+  

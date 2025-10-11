@@ -1,0 +1,34 @@
+Sec_01 0:00:00 Introduction
+
+Sec_02 0:00:55 Creating A Figma Account
+
+Sec_03 0:02:32 Creating & Naming A Figma Design File
+       |--> Figma Canvas
+       |--> Toolbar Section
+
+Sec_04 0:04:47 Creating Shapes in Figma
+       |--> Rectangle [shortcut key = r]
+            |--> Using Rectagle tool + Shift key we can draw exact square shape
+       |--> Ellipse Tool [Shortcut key = o]
+       |--> Polygon Tool
+       |--> Arrow [Shift + L]
+       |--> Line tool [L]
+       |--> Star tool
+
+Sec_05 0:07:16 Selection in Figma
+       |--> Move tool [v]
+       |--> Hand tool [H]
+       |--> Scale tool [K]
+
+Sec_06 0:12:02 Editing Shapes in Figma
+       |--> To enter in vector selection mode select an object and press enter
+       |--> hedge property
+       |--> rotation property
+       |--> corner radius property
+
+
+
+
+
+
+

@@ -1,0 +1,665 @@
+===================================
+Section 1 : Welcome and First Steps
+===================================
+
+001 - Course Structure and Projects
+      |-> Four main topics - Web design, HTML5, CSS3, Responsive Design
+      |-> Nine sections
+          |-> 01. welcome and first steps
+          |-> 02. HTML Fundamentals
+          |-> 03. CSS Fundamentals
+          |-> 04. Building Layouts
+          |-> 05. Web design framework
+          |-> 06. Components and layouts
+          |-> 07. Omnifood : Desktop
+          |-> 08. Omnifood : Responsive
+          |-> 09. Omnifood : Optimizations
+
+002 - Read Before you Start
+
+003 - A High-level overview of web development
+      |-> Front-end vs Back-end Development, Static and dynamic website, core languages and technologies of web development
+          |-> High-level overview
+              |-> 01. user trying to access a webpage "www.xyz.com" in browser
+              |-> 02. Browser send a request to a server where this page is hosted on the internet
+              |-> 03. When the server receive request it will take all the files related to website and send back to a browser. Server sens a response.
+              |-> Note : The 3 languages browser understand - HTML, CSS, Javascript
+          |-> Frontend Development - HTML, CSS, Javascript
+              |-> Static website - Whenever the files that make up the website are simply stored on the web server and are sent to the browser as they are, static website
+          |-> Backend Development
+              |-> Dynamic website - nodejs, php, python etc.
+          |-> The three languages of the frontend
+              |-> Html - Content (noun)
+              |-> Css - Presentation (adjectives)
+              |-> Js - Programming language : Dynamic effects and web applications (verbs)
+
+004 - Setting Up Our Code Editor
+      |-> Code Editor - VS Code
+      |-> Extensions - Prettier, 
+      |-> Settings
+          |-> Default formatter - choose prettier
+          |-> Format on save - to be checked
+          |-> Auto Save - onFocusChange
+          |-> Tab Size - 2
+          |-> Color Theme - One Monokai (Optional)
+
+005 - Your Very First Webpage
+      |-> index.html
+          |-> Emmet Abbreviation - boilerplate
+          |-> opening and closing tag
+          |-> <title> tag
+          |-> h1 tag
+          |-> p tag
+
+006 - Downloading Course Material
+
+007 - Watch Before You Start!
+      |-> Don't get overwhelmed. you will not understand everything at the beginning.
+      |-> You need to code along with me
+      |-> Take notes
+      |-> Try all coding challenges
+      |-> Before moving on from a section, make sure that you understand exactly what was covered
+      |-> Start by trying to solve it yourself
+      |-> Have fun
+
+
+===================================
+Section 2 : HTML Fundamentals
+===================================
+
+008 - Section Intro
+
+009 - Introduction to HTML
+      |-> HTML - Hyper Text Markup Language
+      |-> structure and describe the content
+      |-> Not a programming language
+      |-> Elements (Paragraph, links, heading, images, video, etc.)
+      |-> Anatomy of element - opening tag, content or child element, closing tag
+      |-> Some element have only opening tag
+
+010 - HTML Document Structure
+      |-> Common HTML document structure - Boilerplate
+      |-> <!DOCTYPE html>
+      |-> html tag, head tag, body tag 
+      |-> inside head tag -> tittle tag
+      |-> h1
+      |-> Indentation
+
+011 - Text Elements
+      |-> h1, h2, h3, h4, h5, h6
+      |-> p element - paragraph
+      |-> comments
+      |-> h1 - Only one heading in a page for good practice
+      |-> b element - bold text - its deprecated. Old. Not to use.
+      |-> strong element - bold text
+      |-> i element - italic text. deprecated.
+      |-> em element - italic (emphasized text)
+
+012 - More text elements: Lists
+      |-> ol - Order list
+      |-> ul - Unorder List
+      |-> li - List item
+
+013 - Images and Attributes
+      |-> img tag
+      |-> img tag is no closing tag
+      |-> Attributes?
+      |-> src (source) attribute
+      |-> alt (alternate) attribute
+      |-> screen reader, blind people, seo
+      |-> width and height attributes
+      |-> lang (language) attribute
+      |-> meta element - no closing tag
+      |-> charset attribute
+
+014 - Hyperlinks
+      |-> mdn - mozila developer network
+      |-> a (anchor) element
+      |-> href attribute
+      |-> target attribute
+      |-> href="#" is must otherwise a element not useful
+      |-> # - dosent point enywhere - placeholder link
+
+015 - Structuring our Page
+      |-> nav (navigation) element
+      |-> header element
+      |-> article element
+      |-> Symentic HTML
+      |-> footer element
+      |-> html entity - &copy;
+
+016 - A Note on Semantic HTML
+      |-> Symentic element have meaning or purpose
+      |-> SEO -Search Engine Optimization
+
+017 - Installing Additional VS Code Extensions
+      |-> Image Preview
+      |-> color highlight
+      |-> auto rename tag
+      |-> live server or live preview
+      |-> localhost server - port number 5500
+
+018 - Challenge #1
+      |-> aside element
+
+019 - Challenge #2
+      |-> Codepen - online editor
+      |-> html entity referance css-tricks.com
+      |-> button element
+
+
+===================================
+Section 3 : CSS Fundamentals
+===================================
+
+020 - Section Intro
+
+021 - Introduction to CSS
+      |-> CSS - Cascading Style Sheets
+      |-> Visual style and presentation
+      |-> Selector -> Declaration/Style -> property -> value
+      |-> A css rule
+
+022 - Inline, Internal and External CSS
+      |-> style attribute - inline css
+      |-> style element - internal css
+      |-> External css - Need to link a file
+      |-> link element - <link href="style.css" rel="stylesheet"/>
+
+023 - Styling Text
+      |-> color property
+      |-> font-size
+      |-> font-family
+      |-> text-transform
+      |-> font-style
+      |-> line-height
+      |-> Inheritance mechanism
+      |-> text-align
+
+024 - Combining Selectors
+      |-> h1, h2, p and so on - comma separated
+      |-> descendant selectors - footer p - All the p element inside footer element - comma not needed
+      |-> nested descendant selectors - article header p
+
+025 - Class and ID Selectors
+      |-> id attribute - #author (# - selector)
+      |-> CSS comments
+      |-> comments shortcut in vs code (ctrl + /)
+      |-> class attributes
+      |-> id - only use single time in a page (not reusable)
+      |-> class - we can use multiple times in a page (reusable)
+      |-> font-weight
+      |-> ul {list-style : none;}
+
+026 - Working with colors
+      |-> The RGB Model - Red, Green, Blue
+      |-> Defining colors in CSS
+          |-> RBG / RGBA Notation (A - stands for Alpha - transparency)
+          |-> Hexadecimal Notation
+              |-> Shorthand #00ffff -> #0ff
+          |-> Shades of Grey
+      |-> border property
+      |-> background-color
+
+027 - Pseudo-classes
+      |-> element-name:first-child
+      |-> element-name:last-child
+      |-> element-nmae:nth-child(2)
+      |-> eleement-name:nth-child(odd)
+      |-> element-name:nth-child(even)
+
+028 - Styling Hyperlinks
+      |-> a:link
+      |-> a:visited
+      |-> a:hover
+      |-> a:active
+      |-> LVHA - Link Visited Hover Active
+      |-> href attribute is mandetory. otherwise above psedo classes not works.
+      |-> text-decoration property
+
+029 - Using Chrome DevTools
+      |-> Google Chrome Dev Tool
+      |-> Three ways to open Google chrome Tool
+          |-> right click > inspect elements
+          |-> view menu > developer > developer tools
+          |-> Short cut key - shift key + ctrl key + i
+      |-> user agent stylesheet - default styles in css
+      |-> chrome > styles > force element state (fake link state)
+      |-> Inspect element
+
+030 - CSS Theory #1: Conflicts Between Selectors
+      |-> Conflicting selectors and declarations
+          |-> If Multiple selectors selecting the same element
+          |-> then all rules and properties are applied.
+          |-> Rules - highest to lowest priority
+              |-> Note - 5 is highest and 0 is lowest priority 
+              |-> 5 - Declarations marked !important keyword
+              |-> 4 - Inline style (style attribute in HTML)
+              |-> 3 - ID (#) selector
+              |-> 2 - class (.) or pseudo-class(:) selector
+              |-> 1 - Element selector (p, div, li, etc.)
+              |-> 0 - Universal selector (*)
+          |-> Selector Specificity:(1,0,0) - vs code feature
+              |-> Here 1 means highest priority
+
+031 - CSS Theory #2: Inheritance and the universal selector
+      |-> Inheritance Mechanisom 
+          |-> Default style sheet - user agent style sheet
+          |-> Inheritance is a mechanisom by which some styles get there values inherited parent to child
+          |-> Inherited values are lowest priority
+          |-> How inheritance work?
+          |-> Not all properties get inherited.
+          |-> Its mostly ones related to text.
+          |-> font-family, font-size, font-weight, font-style, color, line-height, letter-spacing, text-align, text-transform, text-shadow, list-style etc.
+
+032 - Challenge #1
+      |-> cursor: pointer;
+
+033 - CSS Theory #3 : The CSS Box Model
+      |-> Box model?
+      |-> content > padding (empty space inside a element) > border > margin (empty space outside a element)
+      |-> Analogy for the css box model
+      |-> Element height and width calculation
+      |-> Final element width
+          |-> left border + left padding + width + right padding + right border
+      |-> Final element height
+          |-> top border + top padding + height + bottom padding + bottom border
+      |-> Margin is not a part of calculations (outside)
+
+034 - Using Margins and Paddings
+      |-> padding property
+      |-> margin property
+      |-> Global reset
+          |-> we can use universal selector (*) for global reset
+              |-> * {margin:0; padding:0}
+      |-> collapsing margins phenomena
+
+035 - Adding Dimensions
+      |-> width : 100%;
+          |-> (In percentage - entire width of parent)
+          |-> If parent is body then child width is end to end page
+
+036 - Centering our page
+      |-> div container element.
+          |-> div has no any special meaning like other symentic elements.
+      |-> centering page > body { margin: 0 auto;} shorthand value
+
+037 - Challenge #2
+
+038 - CSS Theory #4 : Types of Boxes
+      |-> Block- level element/boxes
+          |-> Element are formatted visually as blocks
+          |-> Elements occupy 100% of parent elements width, no matter the content
+          |-> Elements are stacked vertically by default, one after another
+          |-> The box-model applies as showd earlier
+          |-> Default elements with css display block
+              |-> body, main, header, footer, section, nav, aside, div, h1-h6, p, ul, ol, li etc.
+      |-> Inline elements
+          |-> Occupies only the space necessary for its content
+          |-> Causes no line-breaks after or before the element
+          |-> Box model applies in a different way: height and width do not apply
+          |-> Paddings and margins are applied only horizontally (left and right)
+          |-> Default elements with css display inline
+              |-> a, img, strong, em, button, etc.
+          |-> display: block;
+      |-> Inline-block boxes
+          |-> Looks like inline from the outside, behaves like block-level on the inside
+          |-> Occupies only content's space
+          |-> Cause no line-breaks
+          |-> Box-model applies as showed
+          |-> We can still use margin and paddings
+          |-> display : inline-block;
+
+039 - CSS Theory #5 : Absolute Positioning
+      |-> Normal flow vs Absolute Positioning
+          |-> Normal Flow
+              |-> Default positioning
+              |-> Element is 'in flow'
+              |-> Elements are simply laid out according to their order in the HTML code
+              |-> position : relative
+          |-> Absolute Flow 
+              |-> Element is removed from the normal flow: 'out of flow'
+              |-> No impact on surrounding elements, might overlap them
+              |-> We use top, bottom, left or right to offset the element from its relatively positioned container
+              |-> position : absolute
+          |-> Emoji popup vs code shortcut - windows key + .(dot)
+      |-> Understanding absolute positioning
+
+040 - Pseudo-elements
+      |-> Pseudo elements are essentially elements that dont exist in the html but we can still select style is css
+      |-> i.e. first letter of a para, first line of a para etc.
+      |-> element-name::first-letter
+      |-> element-name::first-line
+      |-> json sibling selector element1 + element2::first-line
+          |-> i.e. h1 + h2::first-line
+      |-> most important and mosed used pseudo elements
+          |-> element-name::after
+          |-> content property
+          |-> element-name::before
+
+041 - Developer Skill #1 : Googling and Reading Documentation
+      |-> It is okay not to know everything
+          |-> Google it. read documentation.
+          |-> stackoverflow, css-tricks, mdn documentation
+
+042 - Developer skills #2 : Debugging and asking question
+      |-> Bug is an error or mistakes. And debugging means fix that bug.
+      |-> common error in html - unclosed elements
+      |-> Html validator tool - https://validator.w3.org
+      |-> Diffchecker online tool - diffchecker.com
+      |-> misspelled property name in css
+      |-> not correctly link css file
+      |-> write code on codepen and share link to solve a problem
+
+043 - Challenge #3
+      |-> letter-spacing property
+
+
+===============================================================
+Section 4 : Layouts: Floats, Flexbox, and CSS Grid Fundamentals
+===============================================================
+
+044 - Section Intro
+
+045 - The 3 ways of building layouts
+      |-> Lyouts : Floats, Flexbox and CSS grid fundamentals
+      |-> What is 'Layout' mean?
+          |-> Layout is the way text, images and other content is placed and arranged on a webpage
+          |-> Layout gives the page a visual structure, into which we place our content
+          |-> Building a layout :
+              |-> arranging page elements into a visual structure, instead of simply having them placed one after another (normal flow)
+      |-> Page layout vs component layout
+      |-> The 3 ways of building layouts with css
+          |-> Float layouts
+              |-> The old way of building layouts of all sizes, using the float CSS property.
+              |-> Still used, but getting outdated fast.
+          |-> Flexbox
+              |-> Modern way of laying out elements in a 1-dimensional row without using floats.
+              |-> Perfect for component layouts.
+          |-> CSS Grid
+              |-> For laying out element in a fully-fledged 2-dimensional grid.
+              |-> Perfect for page layouts and complex components.
+
+046 - Using Floats
+      |-> float : left or float:right property
+      |-> Phenomena - collapsing elements
+      |-> Absolute positioning vs Floats
+          |-> Element is removed from the normal flow: 'out of flow'
+          |-> Text and inline elements will wrap around the floated element
+          |-> The container will not adjust its height to the element
+
+047 - Clearing floats
+      |-> clear property
+      |-> left, right or both
+      |-> clearfix hack
+      |-> content property
+
+048 - Building a simple float layout
+
+049 - box-sizing : border-box
+      |-> default behaviour content box
+
+050 - Challange #1
+
+051 - Introduction to flexbox
+      |-> display :flex; property
+      |-> flex container, flex items
+      |-> align-items property
+      |-> justify-content property
+
+052 - A Flexbox Overview
+      |-> What is flexbox?
+          |-> Flexbox is a set of related CSS properties for building 1-dimensional layouts
+          |-> The main idea behind flexbox is that empty space inside a container element can be automatically divided by its child elements
+          |-> Flexbox makes it easy to automatically align items to one another inside a parent container, both horizontally and vertically
+          |-> Flexbox solves common problems such as vertical centering and creating equal-height columns
+          |-> Flexbox is perfect for replacing floats, allowing us to write fewer and cleaner HTML and CSS code
+      |-> Flexbox Terminology
+          |-> Flex container > Flex items
+          |-> Main Axis and Cross Axis
+          |-> Flex container properties
+              |-> gap - To create space between items, without using margin
+              |-> justify-content - To align items along main axis (horizontally, by default)
+              |-> align-items - To align items along cross axis (vertically, by default)
+              |-> flex-direction - To define which is the main axis
+              |-> flex-wrap - To allow items to wrap into a new line if they are too large
+              |-> align-content - Only applies when there are multiple lines (flex-wrap : wrap)
+          |-> Flex items properties
+              |-> align-self - To overwrite align-items for individual flex items
+              |-> flex-grow - To allow an element to grow (0 means no, 1+ means yes)
+              |-> flex-shrink - To allow an element to shrink (0 means no, 1+ means yes)
+              |-> flex-basis - To define an item's width, instead of the width property
+              |-> flex - recommended shorthand for flex-grow, -shrink, -basis
+              |-> order - Controls order of items. -1 makes item first, 1 makes it last
+
+053 - Spacing and Aligning Flex Items
+      |-> align-self property
+      |-> order property (Default all 0)
+      |-> gap property
+
+054 - The flex property
+      |-> flex-grow property - default 0
+      |-> flex-shrink property - default 1
+      |-> flex-shrink property - default auto
+      |-> flex property - Shorthand property of above 3 properties
+          |-> flex : 0 0 200px;
+
+055 - Adding Flexbox to our project
+
+056 - Building a simple flexbox layout
+
+057 - Challenge #2
+
+058 - Introduction to CSS Grid
+      |-> display : none property 
+      |-> display : grid property
+      |-> grid-template-columns : 250px 150px;
+          |-> This code generates two columns
+      |-> grid-template-rows property
+      |-> grid-gap and gap property are same
+      |-> column-gap property
+      |-> row-gap property
+
+059 - A CSS grid overview
+      |-> CSS grid is a set of CSS properties for building 2-dimensional layouts
+      |-> The main idea behind CSS grid is that we divide a container element into rows and columns that can be filled with its child elements.
+      |-> In two-dimensional contexts, CSS grid allows us to write less nested HTMLand easier-to-read CSS
+      |-> CSS Grid is not meant to replace flexbox. Instead, they work perfectly together.
+      |-> Need 1 1D layout? Use Flexbox.
+      |-> Need a 2D layout? Use CSS Grid.
+      |-> Basic CSS Grid Terminology
+          |-> Grid Container (display:grid;) > Grid Items (Row and Column axis) > 
+          |-> grid lines 
+          |-> grid cell (might be filled by a grid item or not)
+          |-> gutters or gaps
+          |-> grid track/row
+      |-> Grid Container Properties
+          |-> grid-template-rows
+          |-> grid-template-columns
+              |-> Two establish the grid row and column tracks.
+              |-> One length unit for each track.
+              |-> Any unit can be used, new fr fills unused space
+          
+          |-> row-gap
+          |-> column-gap
+          |-> gap
+              |-> To create empty space between tracks.
+          |-> justify-items
+          |-> align-items
+              |-> To align items inside rows/columns (horizontally / vertically)
+          |-> justify-content
+          |-> align-content
+              |-> To align entire grid inside grid container.
+              |-> Only applies if container is larger than the grid
+      |-> Grid items properties
+          |-> grid-column
+          |-> grid-row
+              |-> To place a grid item into a specific cell, based on line numbers.
+              |-> span keyword can be used to span an item across more cells
+          |-> justify-self
+          |-> align-self
+              |-> To overwrite justify-items / align-items for single items
+
+060 - Sizing Grid Columns and Rows
+      |-> fr unit (fraction)
+      |-> repeat(4, 1fr) repeat function
+      |-> Imlicit rows and explicit rows
+
+061 - Placing and Spanning Grid items
+      |-> CSS grid dev tool in chrome - grid overlay
+      |-> grid-column property
+          |-> grid-column : 2 / 3;
+      |-> grid-row property
+          |-> grid-row : 1 / 2;
+
+062 - Aligning Grid Items and Tracks
+      |-> justify-cntent property
+      |-> align content property
+      Aligning items inside cells
+      |-> align=items property
+      |-> justify-items property
+      |-> align-self property
+      |-> justify-self property
+
+063 - Building a Simple CSS grid Layout
+
+064 - Challenge #3
+
+
+==========================================
+Section 5 : Web Design Rules and Framework
+==========================================
+
+065 - Section Intro
+
+066 - Project Overview
+      |-> section html element
+      |-> span inline html element
+      |-> blockquote html element
+
+067 - Overview of Web Design and Website Personalities
+      |-> Web Design vs, Web development
+          |-> Web designers create the overall look and feel of a website.
+          |-> Web developers implement the design using HTML, CSS and JavaScript.
+      |-> Why take design seriously?
+          |-> Good Design
+              |-> Creates an immediate and lasting good impression of the brand or product.
+              |-> Makes the user trust the brand right away
+              |-> Increases the user's perceived value of the brand or product
+              |-> Gives users exactly what they were looking for when coming to the site, e.g. purchasing a product or finding information
+          |-> Bad design
+              |-> Makes users believe the brand dosen't really care about their product or service
+              |-> makes the user insecure about trusting the brand
+              |-> Makes the brand or product seem 'cheap'
+              |-> Leaves users confused, and makes it hard to for them to reach their goal.
+      |-> Anyone can learn good design!
+          |-> Good web design is not subjective or creative
+          |-> Everyone can learn basics by following a framework/system
+      |-> Web design ingredients you will learn about
+          |-> 1. Typography
+          |-> 2. Colors
+          |-> 3. Images / Illustrations
+          |-> 4. Icons
+          |-> 5. Shadows
+          |-> 6. Border-radius
+          |-> 7. Whitespace
+          |-> 8. Visual Hierarchy
+          |-> 9. User Experiance
+          |-> 10. Components / Layouts
+      |-> Design decisions for each ingredient are based on website personality.
+      |-> Overview of website personalities
+          |-> 1. Serious/Elegant
+          |-> 2. Minimalist/Simple
+          |-> 3. Plain/Neutral
+          |-> 4. Bold/Confident
+          |-> 5. Calm/Peaceful
+          |-> 6. Startup/Upbeat
+          |-> 7. Playful/Fun
+
+068 - Web Design Rules #1: Typography
+      |-> Some Concept first
+          |-> Typography is the art and technique of arranging type to make written language legible, readable and appealing when displayed.
+              |-> Serif vs Sans-serif
+                  |-> Serif typefaces
+                      |-> Tails
+                      |-> Creates a traditional / classic look and feel
+                      |-> Conveys trustworthiness
+                      |-> Good for long text
+                  |-> Sans-serif typefaces
+                      |-> No Tails
+                      |-> Modern look and feel
+                      |-> Clean and simple
+                      |-> Easier to choose for beginner designer!
+      |-> Use Good Typefaces
+          |-> 1. Use only good and popular typefaces and play it safe.
+              |-> Tools - Google fonts, Font Squirrel
+              |-> All tools are listed : jonas.io
+                  |-> Sans-serif - Inter, Open Sans, Roboto, Montserrat, Work Sans, Lato
+                  |-> Serif - Merriweather, Aleo, Playfair Display, Cormorant, Cardo, Lora
+          |-> 2. It's okay to use just one typeface per page! If you want more, limit to 2 typeface.
+          |-> 3. Choose the right typeface according to your website personality.
+      |-> Use Good font sizes and weights
+          |-> 4. When choosing font-size, limit choices! Use a 'type scale' tool or other pre-defined range
+          |-> 5. Use a font size between 16px and 32px for 'normal' text
+          |-> 6. For long text (like a blog post), try a size of 20px or even bigger
+          |-> 7. For headlines, you can go really big (50px+) and bold (600+), depending on personality
+          |-> 8. For any text, don't use a font weight under 400 (regular)
+      |-> Create a good reading experiance
+          |-> 9. Use less than 75 characters per line
+          |-> 10. For normal-sized text, use a line height between 1.5 and 2. For big text, go below 1.5
+                  |-> The smaller or longer the text, the larger the line height need to be!
+          |-> 11. Decrease letter spacing in headlines, if it looks unnatural (this will come from experiance)
+          |-> 12. Experiment with all caps for short titles. Make them small and bold and increase letter-spacing
+          |-> 13. Usually, don't justify text
+          |-> 14. Don't center long text blocks. Small blocks are fine.
+
+069 - Implementing Typography
+      |-> Goggle fonts
+          |-> inter - font weight 400 - regular, 500 - medium, 700 - bold
+      |-> type-scale.com (for to choose or define font sizes in a website)
+
+070 - Web design rules #2: colors
+
+
+
+
+ 
+
+   
+
+ 
+
+ 
+
+
+
+
+     
+
+
+
+      
+
+
+
+      
+       
+
+
+
+
+
+              
+ 
+
+ 
+
+
+
+
+
+
+     
+
+
+

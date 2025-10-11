@@ -1,0 +1,68 @@
+===================================
+Section 1 : Before web dev journey
+===================================
+1.1 - Course Introduction
+      --> What is Miro?
+1.2 - Meet your Instructor - Hitesh
+1.3 - Lets talk about AI hype
+1.4 - Jobs, salary range and skills
+1.5 - Tools for web development
+      |-> Browser - Google Chrome, Arc, 
+      |-> Code Editor - VS Code, Zed, Cursor, Sublime Text etc.
+      |-> Terminal - CMD, Warp etc.
+      |-> Online code editor - CodePen, StackBlitz, Replit
+1.6 - Code editor setup
+      |-> VS Code
+      |-> Extension - Chai Theme
+      |-> Settings - shortcut key 'Ctrl + Comma'
+      |-> Extension - Live Server
+      |-> Some Shortcuts in VS Code
+          |-> To open Command Palette - Ctrl + Shift + P
+          |-> Navigate between the files - Ctrl + P
+          |-> Open Terminal - Ctrl + `
+          |-> Toggle the side bars - Ctrl + B
+          |-> Close current file - Ctrl + W
+          |-> For saving file - Ctrl + S
+          |-> To move cursor start or end of a line - Ctrl + Left or Right arrow key
+          |-> Move cursor one word - Alt + Left or Right arrow
+          |-> Select entire line - Ctrl + Shift
+          |-> Duplicate line - Shift + Down arrow key
+          |-> Remove line - Ctrl + X
+          |-> To move line - Alt + Arrow key
+          |-> Multi cursor - Alt + Click
+          |-> Boilerplate
+
+=======================================
+Section 2 : Code files - Download here
+=======================================
+
+=======================================
+Section 3 : Basics of web development
+=======================================
+3.1 - How does internet works
+      |-> What is internet?
+      |-> •--> User computer(IP Address)
+            •--> ISP
+              •--> DNS(Domain Name System)
+                •--> Internet
+                  •--> Website url (IP address)
+      |-> Host - Google, AWS, azure, linode etc.
+      |-> Chrome tools
+3.2 - A big picture of web application
+      |-> HTML, CSS, JS - Server - Databas
+      |-> •--> User is trying to access of website 'www.xyz.com'
+            •--> make a request to a Server
+               •--> server access database
+                 •--> send response back -- HTML, CSS, JS Files
+                   •--> Browser render these files.
+3.3 - Frontend, Backend and APIs
+      |-> Server is just a software
+      |-> libraries of css bootstrap, tailwind etc
+      |-> JS - react, anguler, vue etc
+      |-> libraryis vs frameworks
+      |-> Backend - Programming language - JS(node), java, python etc. and database - MySql, MongoDB etc.
+      |-> In-between Frontend and Backend there are APIs(gateway)
+      |-> Application programming interface
+      |-> json format
+      |-> API Serves you data
+

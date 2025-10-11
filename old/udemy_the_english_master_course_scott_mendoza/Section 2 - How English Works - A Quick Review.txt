@@ -1,0 +1,123 @@
+----------------------------------------------
+Section 2 - How English Works - A Quick Review
+----------------------------------------------
+2.8 Section Overview - English Language
+    |--> Basics of English language
+         |--> The parts of an English Sentence
+         |--> Nouns
+         |--> Verbs
+         |--> Objects: A Closer Look
+         |--> Adjectives, Adverbs, Determiners, and More
+         |--> Prepositions
+         |--> Conjunctions
+
+2.9 The Parts of an English Sentence - English Grammar
+    |--> Parts of a sentence overview
+         |--> Noun
+         |--> Adverb
+         |--> Verb
+         |--> Adjective
+
+    |--> The subject and predicate: A complete thought
+         |--> In English, every sentence needs two parts. The subject and the predicate.
+              |--> The dog runs down the street.
+                   |--> The dog --> Subject
+                   |--> runs down the street --> predicate
+         |--> Without these two parts, the sentence is not a complete thought. They must be in this order as well.
+ 
+         |--> The Subject: The Naming Part
+              |--> The subject of a sentence is who or what the sentence is about.
+              |--> The subject is a noun.
+              |--> A noun is any person place or thing.
+              
+              |--> The dog runs down the street.
+                   |--> "The dog" is the subject. This is what the sentence is about.
+
+         |--> The Predicate: The Telling Part
+              |--> The predicate of a sentence tells what the subject is doing.
+              |--> It will start with a verb and contain the object (a noun).
+                   |--> The dog runs down the street.
+                        |--> runs down the street --> Verb + Object
+                        |--> "runs down the street" is the predicate. This tells us what the dog (subject) is doing.
+
+         |--> The Basic Sentence: Subject + Verb + Object
+              |--> Now we can build basic English sentences. Knowing only the rules about the subject and predicate.
+              |--> A basic English sentence is
+                   |--> Subject + Predicate (Verb + Object)
+                   |--> The dog runs down the street.
+                        |--> The dog --> Subject
+                        |--> runs down the street --> Verb + Object
+         |--> Examples: Identifying the Subject and Predicate
+              |--> The cat jumps on the bed.
+                   |--> The cat --> Subject
+                   |--> jumps on the bed --> Predicate
+              |--> The mouse eats cheese.
+                   |--> The mouse --> Subject
+                   |--> eats cheese --> Predicate
+              |--> The bird is in the sky.
+                   |--> The bird --> Subject
+                   |--> is in the sky --> Predicate
+    
+          |--> Exercises: Identifying the Subject and Predicate
+               |--> The man ate pizza.
+                    |--> The man --> Subject
+                    |--> ate pizza. --> Predicate
+               |--> Adam went to school.
+                    |--> Adam --> Subject
+                    |--> went to school --> Predicate
+               |--> The bear slept in the cave.
+                    |--> The bear --> Subject
+                    |--> slept in the cave --> Predicate
+
+           |--> Exercise: Correct the sentence
+                |--> Sinking the boat is.
+                     |--> The boat is sinking.
+                |--> Eats mice a snake.
+                     |--> Snake eats a mice. ❌ Incorrect
+                     |--> A snake eats mice. ✅ Corrected
+                |--> Is hot the sun.
+                     |--> The sun is hot.
+
+    |--> English: Parts of Speech
+         |--> Learning and understanding the parts of speech will allow you to easily master English.
+              Many students don't learn this and they struggle with English because of it.
+              The rest o this course we will go over each part of speech in English.
+              |--> Nouns
+              |--> Verbs
+              |--> Adjectives, Adverbs, and the OTHER words
+              |--> Prepositions
+              |--> Conjunctions
+         |--> Understand these, and you will have no problem learning English.
+
+2.10 Nouns - English Grammar
+     |--> What is a noun?
+          |--> A noun is a person, place, or thing.
+              |--> The dog runs down the street.
+              |--> Both dog and street are nouns. Dog is subject and the street is object.
+     |--> Noun Categories
+          |--> Person --> fireman, bus driver, man
+          |--> Place --> New York, America, Space
+          |--> Thing -->  Pencil, Apple, Desk
+          |--> Animal --> dog, bird, cat
+          |--> Feeling --> Love, Hate, Anger
+     |--> Singular or Plural
+          |--> Singular --> Apple, Fox, Cherry
+          |--> Plural --> Apples (Add 's'), Foxes (Add 'es'), Cherries (Drop 'y' and add 'ies') 
+          |--> s, es, ies rules - I should explore this
+     |--> Common, Proper, or Pronoun
+          |--> Common --> Man, Woman
+          |--> Proper --> George, Cleopatra
+          |--> Pronouns --> He, She
+
+
+ 
+
+         
+
+
+
+
+                                
+
+
+
