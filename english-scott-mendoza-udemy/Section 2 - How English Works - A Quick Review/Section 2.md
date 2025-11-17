@@ -1,6 +1,6 @@
-## Section 2 - How English Works
+# Section 2 - How English Works
 
-### 8. Section Overview - English Language
+## 8. Section Overview - English Language
 
 **The Parts of an Englisg language**
 + Nouns
@@ -14,7 +14,7 @@
 
 ---
 
-### 9. The Parts of English Sentence
+## 9. The Parts of English Sentence
 
 **Parts of Sentence - Overview**
 
@@ -64,6 +64,51 @@ A. A snake eats mice. ✔️
 
 Q. Is hot the sun <br>
 A. The sun is hot. ✔️
+
+## 10. Nouns
+
+**What is a Noun?**
+
+A noun is a person, place, or thing.<br>
+The **dog** runs down the **street**.<br>
+Both **dog** and **street** are nouns.
+
+**Noun Categories**
+| Person | Place | Thing | Animal | Feeling |
+|--------| ----- | ----- | ------ | ------- |
+| fireman<br>bus driver<br>man | New York<br>America<br>Space | pencil<br>apple<br>desk | dog<br>bird<br>cat<br> | Love<br>hate<br>anger
+|
+
+**Nouns will be singular or will be plural**
+| Singular | Plural | Rule |
+| -------- | ------ | ---- |
+| Apple | Apple**s** | Add **'s'**|
+| Fox | Fox**es** | Add **'es'** |
+| Cherry | Cherr**ies** | Drop **'y'** and add **'ies'** |
+|
+
+**Common, Proper, or Pronoun**
+| Common | Proper | Pronouns |
+| ------ | ------ | -------- |
+| man    | George | He |
+| woman  | Cleopatra | She |
+|
+
+**Exercise**
+
+List all the nouns in the sentence. Try to figure out if it's common/proper, singular/plural, or a pronoun.
+
+Q. A mountain has trees, rivers, and lakes.<br>
+- mountain - common noun, singular<br>
+- trees - common noun, plural<br>
+- rivers - common noun, plural<br>
+- lakes - common noun, plural<br>
+
+Q. Queen Elizabeth sat on the bench.<br>
+- Queen Elizabeth - proper noun, singular<br>
+- bench - common, singular<br>
+
+
 
 
 
